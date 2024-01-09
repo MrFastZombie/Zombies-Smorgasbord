@@ -1,6 +1,14 @@
 hash-format = "sha256"
 
 [[files]]
+file = "LICENSE"
+hash = "cfe4fc949766e971cb77493a365af689942aebf89f9e3650969ac2c32cc74db8"
+
+[[files]]
+file = "README.md"
+hash = "0124a559a70540f8902a335c24eb587c91be1ba881063cb0b9ec6ea2c2244a63"
+
+[[files]]
 file = "mods/ae2.pw.toml"
 hash = "c0e28d40745671abdda3c2c945e138765ea2996739bbbe0d18261f573e2245de"
 metafile = true
@@ -117,7 +125,7 @@ metafile = true
 
 [[files]]
 file = "mods/better-combat.pw.toml"
-hash = "a0d58b1ae5fdbfdf77c255a9dad2ee5694c77396f4f0030eb0b49b71629ef67d"
+hash = "44b02dfddb6b019916aab1ded7974ff136a7a7e6367e40de8ac0a3f00f32cad0"
 metafile = true
 
 [[files]]
@@ -198,11 +206,6 @@ metafile = true
 [[files]]
 file = "mods/clay-soldiers.pw.toml"
 hash = "1130d5269f1d0786585118c836221cbea3f8b28f9a50065cf6a8d27a70345c60"
-metafile = true
-
-[[files]]
-file = "mods/cleardespawn.pw.toml"
-hash = "5cea125d7cdf308c31e5b26dcb242c3bb1885fb63b8f41baa19ce1052975643f"
 metafile = true
 
 [[files]]
@@ -476,11 +479,6 @@ hash = "cdb3264f8574d9d86808425a47461fe4b2e1cc1295cec727a3fc93d3b88cbee4"
 metafile = true
 
 [[files]]
-file = "mods/eureka.pw.toml"
-hash = "3aa8723e76e608f812833ef3cf8a8b45c9ca7b6d783e11d1d08e0d3d9ca4a5c3"
-metafile = true
-
-[[files]]
 file = "mods/every-compat.pw.toml"
 hash = "81700677c4bec1ade7e4790ed8cbbeaaa5d966e2577078db430f6107889ea14e"
 metafile = true
@@ -561,6 +559,11 @@ hash = "e6defe3c20e412bfae7de25c0908a0b270fb3754bad2be9b16c54b3e2e7aa2c6"
 metafile = true
 
 [[files]]
+file = "mods/fusion-connected-textures.pw.toml"
+hash = "107d43eaec4b656e198ac68571315ec47ed3f143b8d76800d88df702a678f041"
+metafile = true
+
+[[files]]
 file = "mods/gamemenumodoption.pw.toml"
 hash = "bb798676e1a411b30830b4ffc87b45e583ea1b6d6cd80e8f6ed5315da1eaca4d"
 metafile = true
@@ -603,11 +606,6 @@ metafile = true
 [[files]]
 file = "mods/incendium.pw.toml"
 hash = "05bedf66c1081d32e21bfd72b11b218a56090461ebd7c9ffd311a81fbb1bfde6"
-metafile = true
-
-[[files]]
-file = "mods/interactive.pw.toml"
-hash = "6864eb4954dc85bacdeffbb8fcf6f0e13d6cc6fd2c0f384cd0a0800e309879aa"
 metafile = true
 
 [[files]]
@@ -711,11 +709,6 @@ hash = "11076d97e1627a4355d0bc985896766d50f9161e38f22f50a7abdbdad371e6ad"
 metafile = true
 
 [[files]]
-file = "mods/lmft.pw.toml"
-hash = "7b3723d4ab25b3eb320d3161e75234a04be6a1f2ba304b6537084de5186bf8ac"
-metafile = true
-
-[[files]]
 file = "mods/lootjs.pw.toml"
 hash = "546f13d8021a4762fcee99ee10d5c8f8f39c7d5fb0b6fd2aa3d7a6dd74494d3c"
 metafile = true
@@ -792,7 +785,7 @@ metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "0e7d0f763673558843e7b3c43be1f1e20fb6034a9d7ef37d1886f134a75eb2d7"
+hash = "b449689a6f4a0b7f04309aeb3c9829efc68cce71e6ea4372d2cbbb3ae895bd98"
 metafile = true
 
 [[files]]
@@ -1126,11 +1119,6 @@ hash = "5fef246e23abd9fa405ab3af2faa56bfadf668d46a001b1af3772c0afe6989fd"
 metafile = true
 
 [[files]]
-file = "mods/valkyrien-skies.pw.toml"
-hash = "8fb89f140c35b93cc24e4d4faff3d8bed281b66ff32236aa383617af7a61c8d9"
-metafile = true
-
-[[files]]
 file = "mods/vanilla-zoom.pw.toml"
 hash = "3b06cd1137aeee898803ef441917823bfe2a75ebcb511d9d8a90017c2ff05eba"
 metafile = true
@@ -1172,7 +1160,7 @@ metafile = true
 
 [[files]]
 file = "mods/yungs-api.pw.toml"
-hash = "9596ecdbcf7d207f0fcf37fbca04a310d4932ae6797dcc57d10f63af142feac0"
+hash = "71ef81296c5c139e2ad2dedeb96383c1e25d67eefe673216a42fa2bd2c750a32"
 metafile = true
 
 [[files]]
