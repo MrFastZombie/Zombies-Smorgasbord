@@ -44,6 +44,16 @@ hash = "c0dae52b7d1e73e8055536b7032b01e5f091bfdfa65a41401d778e99094d62dd"
 metafile = true
 
 [[files]]
+file = "mods/apotheosis.pw.toml"
+hash = "e7fc067ffd5dc111227e70ade57fa51dac0371a5376c9b7e71695d941921d85d"
+metafile = true
+
+[[files]]
+file = "mods/apothic-attributes.pw.toml"
+hash = "b056940d55f3c34ebc8c80df1079168004280fb5d35119c29cca6bd0165b967e"
+metafile = true
+
+[[files]]
 file = "mods/appleskin.pw.toml"
 hash = "5d03b477df607fc4fa5cde634a6e870413ab097ff9222d2f0a465ac0fbcdbea4"
 metafile = true
@@ -340,7 +350,7 @@ metafile = true
 
 [[files]]
 file = "mods/cristel-lib.pw.toml"
-hash = "f99d86319f474bc75585c6cba1927f868846f91ab87ce8dcfe936b3462412296"
+hash = "d4768ef37900b4cc89d15e3fb12c59ad1b21818e247186b8ae1f491208b4abe8"
 metafile = true
 
 [[files]]
@@ -485,7 +495,7 @@ metafile = true
 
 [[files]]
 file = "mods/expanded-ecosphere.pw.toml"
-hash = "d2964f35c1777c5357f56fc2ff2cce8a1506b3c490db43e5e155aedc97489172"
+hash = "0cc233c469586aeba9217c2d4e83d229eb4ae4f39b3bfdaf8009a4c4d5fb81bf"
 metafile = true
 
 [[files]]
@@ -884,6 +894,11 @@ hash = "86d1f26a7ae6210d216a1af25759b07986f71bf6deeed02b4ce651204502773c"
 metafile = true
 
 [[files]]
+file = "mods/placebo.pw.toml"
+hash = "3efe1725ae6105d992ab8be92044c83e1886b0b9f0972415c3f72ab018e82f79"
+metafile = true
+
+[[files]]
 file = "mods/platforms.pw.toml"
 hash = "7887b8d2490d5153452d97380e7a19fb05dc664878775e9f807cdf4024bd1d5d"
 metafile = true
@@ -1009,6 +1024,11 @@ hash = "ccefbc00ed1838907acb5ec379784f9a52a1141c880ef0282e9c079355876702"
 metafile = true
 
 [[files]]
+file = "mods/slot-cycler.pw.toml"
+hash = "5dbd813cd96cc0bae5c5fcaa4854a53d0a0cb29f68db8b05f240f56a1e502db9"
+metafile = true
+
+[[files]]
 file = "mods/smooth-boot-reloaded.pw.toml"
 hash = "e9bf45458454e7ceaa9fc33b271b9f408f27b69d5660652a5f7464fad94bb733"
 metafile = true
@@ -1061,11 +1081,6 @@ metafile = true
 [[files]]
 file = "mods/supplementaries.pw.toml"
 hash = "846e5450dd20b8b8a2987fd034b225da89bed99b968ad937f2564cb99d1fe27a"
-metafile = true
-
-[[files]]
-file = "mods/tax-free-levels.pw.toml"
-hash = "91d564129f19cb276511a9b41d52feeaff310c3bd2effb9a96bb1606ed249fc2"
 metafile = true
 
 [[files]]
