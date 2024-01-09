@@ -1,0 +1,13 @@
+name = "Sneak Through Berries"
+filename = "sneak_through_berries-forge-8.0.0+1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/xq3wqd0E/versions/WTip8C5F/sneak_through_berries-forge-8.0.0%2B1.20.1.jar"
+hash-format = "sha1"
+hash = "55e90f61f6ea70d1235296b0ad93a44d01475ba4"
+
+[update]
+[update.modrinth]
+mod-id = "xq3wqd0E"
+version = "WTip8C5F"

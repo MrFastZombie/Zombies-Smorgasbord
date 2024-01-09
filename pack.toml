@@ -1,0 +1,13 @@
+name = "Zombie's Smorgasbord 1.20.1"
+author = "MrFastZombie"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "2b16087b1e60e41237a198f42ff07620f0e6447a15b091c4bfde8818f6bd8173"
+
+[versions]
+minecraft = "1.20.1"
+neoforge = "47.1.84"

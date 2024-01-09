@@ -1,0 +1,13 @@
+name = "Air Hop"
+filename = "AirHop-v8.0.0-1.20.1-Forge.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/g1eaCZgs/versions/afGEsJqq/AirHop-v8.0.0-1.20.1-Forge.jar"
+hash-format = "sha1"
+hash = "c64388e2abe6f9506df209bb8dcdcb9fd3357fc8"
+
+[update]
+[update.modrinth]
+mod-id = "g1eaCZgs"
+version = "afGEsJqq"

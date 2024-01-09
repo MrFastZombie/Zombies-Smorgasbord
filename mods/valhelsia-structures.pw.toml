@@ -1,0 +1,13 @@
+name = "Valhelsia Structures"
+filename = "valhelsia_structures-forge-1.20.1-1.1.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/T21szC0a/versions/gLH10Fnl/valhelsia_structures-forge-1.20.1-1.1.1.jar"
+hash-format = "sha1"
+hash = "5a92a3c69e62e201827775c654b7fe7927bfc259"
+
+[update]
+[update.modrinth]
+mod-id = "T21szC0a"
+version = "gLH10Fnl"

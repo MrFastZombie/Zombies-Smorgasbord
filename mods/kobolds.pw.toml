@@ -1,0 +1,13 @@
+name = "Kobolds"
+filename = "Kobolds-2.10.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/ufaxN0Ay/versions/l22pgIgh/Kobolds-2.10.2.jar"
+hash-format = "sha1"
+hash = "acabc963170bd2ea14e52a90c0ca318838b095b9"
+
+[update]
+[update.modrinth]
+mod-id = "ufaxN0Ay"
+version = "l22pgIgh"

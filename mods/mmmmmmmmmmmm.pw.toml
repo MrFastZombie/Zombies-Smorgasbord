@@ -1,0 +1,13 @@
+name = "MmmMmmMmmMmm"
+filename = "dummmmmmy-1.20-1.8.13.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/Adega8YN/versions/G6J2yYte/dummmmmmy-1.20-1.8.13.jar"
+hash-format = "sha1"
+hash = "3ca3c9a7e6eae0c74be0844b7fa5dec7790c3fdd"
+
+[update]
+[update.modrinth]
+mod-id = "Adega8YN"
+version = "G6J2yYte"

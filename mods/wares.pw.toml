@@ -1,0 +1,13 @@
+name = "Wares"
+filename = "wares-1.20.1-1.2.5.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/Jz71ddli/versions/npwE3wwb/wares-1.20.1-1.2.5.jar"
+hash-format = "sha1"
+hash = "0f64210fc81868d6440f88f0a82a9441af411e8f"
+
+[update]
+[update.modrinth]
+mod-id = "Jz71ddli"
+version = "npwE3wwb"
