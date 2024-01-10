@@ -9,7 +9,7 @@ file = "README.md"
 hash = "1f416804e9dd1dab5691b6671e73397d727fc9ecb4edd8fb8bb8fdfe767d6587"
 
 [[files]]
-file = "configureddefaults/customstars.json"
+file = "configureddefaults/config/customstars.json"
 hash = "9998eded7eae3f071a337560ce01bbe9ae590836de6180cd165f843bdbe6964a"
 
 [[files]]
