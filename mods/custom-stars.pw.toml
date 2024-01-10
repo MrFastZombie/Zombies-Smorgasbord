@@ -1,8 +1,0 @@
-name = "custom-stars"
-filename = "custom-stars-1.2.1+1.20.jar"
-side = "client"
-
-[download]
-url = "https://github.com/MrFastZombie/Zombies-Smorgasbord/raw/main/mods/custom-stars-1.2.1+1.20.jar"
-hash-format = "md5"
-hash = "D938FD640F24018450EA683B75E36C1C"

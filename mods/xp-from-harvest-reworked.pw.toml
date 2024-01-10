@@ -1,8 +1,0 @@
-name = "XP From Harvest Reworked"
-filename = "XP+From+Harvest+Reworked-1.20.x-1.2.4.jar"
-side = "both"
-
-[download]
-url = "https://github.com/MrFastZombie/Zombies-Smorgasbord/raw/main/mods/XP+From+Harvest+Reworked-1.20.x-1.2.4.jar"
-hash-format="md5"
-hash = "00986AAFFC346477F8BD1FBC5CC51AEC"
