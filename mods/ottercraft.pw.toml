@@ -1,0 +1,13 @@
+name = "Ottercraft"
+filename = "Ottercraft-neoforge-1.2.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "f1b067572b06c34e0b42c4286c97fa4a873d3c41"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4990693
+project-id = 550387

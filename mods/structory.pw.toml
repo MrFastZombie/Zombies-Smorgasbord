@@ -1,0 +1,8 @@
+name = "structory"
+filename = "download"
+side = "both"
+
+[download]
+url = "https://github.com/MrFastZombie/Zombies-Smorgasbord/raw/main/mods/Structory_1.20.2_v1.3.4.jar"
+hash-format = "md5"
+hash = "31C97C41CF5C98C1101134CE592A2496"

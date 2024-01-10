@@ -1,0 +1,13 @@
+name = "LibreExpFix [Fabric/Forge] (Fixes \"0 Experience\" Bug)"
+filename = "libreexpfix-0.2.1b8-BETA-forge.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "b3c75a18c092291ccdfbfc34227d7c4333c2b6e0"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4847043
+project-id = 676174

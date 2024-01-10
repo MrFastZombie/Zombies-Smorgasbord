@@ -1,0 +1,13 @@
+name = "Smelting Sand In a Blast Furnace [Fabric/Forge]"
+filename = "smeltingsand-1.20.1-11-forge.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "e2f468703c048c6d228cdfa41841140c84f32ea5"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4633718
+project-id = 451602

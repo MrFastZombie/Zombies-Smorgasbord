@@ -1,0 +1,8 @@
+name = "itemswapper"
+filename = "download"
+side = "client"
+
+[download]
+url = "https://github.com/MrFastZombie/Zombies-Smorgasbord/raw/main/mods/itemswapper-fabric-0.5.3-mc1.20.1.jar"
+hash-format = "md5"
+hash = "C8E0EDE9C9327279D3798F469C71AA91"
