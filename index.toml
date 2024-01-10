@@ -9,6 +9,10 @@ file = "README.md"
 hash = "1f416804e9dd1dab5691b6671e73397d727fc9ecb4edd8fb8bb8fdfe767d6587"
 
 [[files]]
+file = "config/customstars.json"
+hash = "9998eded7eae3f071a337560ce01bbe9ae590836de6180cd165f843bdbe6964a"
+
+[[files]]
 file = "mods/Structory_1.20.2_v1.3.4.jar"
 hash = "b23b6565cac9af8c30a3f5faa110b3b6def6aa0d6d410c178107aacc1524d9a5"
 
@@ -466,11 +470,6 @@ file = "mods/custom-stars-1.2.1+1.20.jar"
 hash = "1651bdaa7b53151b7f678edcacf9017aedb406a5c2a33377cf1310992dd7b35e"
 
 [[files]]
-file = "mods/custom-stars.pw.toml"
-hash = "91dfde7b8f714edf74d5670a83c9101e4719943541372176f082b9c6e48ab6d8"
-metafile = true
-
-[[files]]
 file = "mods/dark-utilities.pw.toml"
 hash = "56f45e32c12ce85ac282e0b79bd333fff2706484deba98944465f1b3d303e102"
 metafile = true
@@ -628,6 +627,11 @@ metafile = true
 [[files]]
 file = "mods/expanded-ecosphere.pw.toml"
 hash = "0cc233c469586aeba9217c2d4e83d229eb4ae4f39b3bfdaf8009a4c4d5fb81bf"
+metafile = true
+
+[[files]]
+file = "mods/experimental-settings-disabler.pw.toml"
+hash = "89084ab71f9a1f656799a58b9cbb53801fd883c60f75f97f777c5beb87e4cfaf"
 metafile = true
 
 [[files]]
@@ -823,11 +827,6 @@ metafile = true
 [[files]]
 file = "mods/itemswapper-fabric-0.5.3-mc1.20.1.jar"
 hash = "b1f347394a2616836341b1e7d5c16bf469871e79714604d7324c7e73fb1649bf"
-
-[[files]]
-file = "mods/itemswapper.pw.toml"
-hash = "3c35d146d948f9d2ba72f807261be074d71677454158c418651d307217020383"
-metafile = true
 
 [[files]]
 file = "mods/jade-addons-forge.pw.toml"
@@ -1395,11 +1394,6 @@ hash = "592910d12bfb5966d1c142b2ba219e6b79a09f96e3c06a4cef3d93645d1ec3f7"
 metafile = true
 
 [[files]]
-file = "mods/structory.pw.toml"
-hash = "ecde8c4fd7a6be5bdf0d3b863b3cd0f954b631090184ddf4cdf638ba5e97d6de"
-metafile = true
-
-[[files]]
 file = "mods/supermartijn642s-config-lib.pw.toml"
 hash = "fb0ec93bfbee412229b63a9154abc992ee7e274a84fe569e077f250e6c77abbd"
 metafile = true
@@ -1495,6 +1489,10 @@ hash = "9a417c6fc118cbb0938c118853b7016d674bd07cb170215f1b0d21a1683d974e"
 metafile = true
 
 [[files]]
+file = "mods/wakes-0.2.3.jar"
+hash = "0202c8fe96076bca43a849773c1d3fe1f841605835440e088b62edfc5b7df93c"
+
+[[files]]
 file = "mods/wares.pw.toml"
 hash = "0ddadef906669a28f8985dfe889f5a9066229bb5884df696f46b3ac1b3f89d2d"
 metafile = true
@@ -1522,11 +1520,6 @@ metafile = true
 [[files]]
 file = "mods/xaeros-world-map.pw.toml"
 hash = "2c5ce0de743555c3ada8f0e82f22791f28034e3bd4a3011794ebfd906a05c428"
-metafile = true
-
-[[files]]
-file = "mods/xp-from-harvest-reworked.pw.toml"
-hash = "5d87562d8fdd336fe3d82ec91fdbedb6493278e002988f08dd3f556fe3af23ad"
 metafile = true
 
 [[files]]
