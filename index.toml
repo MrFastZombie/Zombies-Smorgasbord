@@ -9,7 +9,7 @@ file = "README.md"
 hash = "1f416804e9dd1dab5691b6671e73397d727fc9ecb4edd8fb8bb8fdfe767d6587"
 
 [[files]]
-file = "config/customstars.json"
+file = "configureddefaults/customstars.json"
 hash = "9998eded7eae3f071a337560ce01bbe9ae590836de6180cd165f843bdbe6964a"
 
 [[files]]
@@ -318,6 +318,11 @@ metafile = true
 [[files]]
 file = "mods/comforts.pw.toml"
 hash = "fbfe78fc2ee5344d22a88a41dc69027002ac86eebf1c9401f93b22876c8f8ed3"
+metafile = true
+
+[[files]]
+file = "mods/configured-defaults.pw.toml"
+hash = "4f23ec4f00364a26a94516833be54028cefd525e8ac1bc0697e5f6718fc97bac"
 metafile = true
 
 [[files]]
@@ -710,6 +715,11 @@ hash = "82edae501ea32b9ed6939a9ca81122345bd081137529421dfa98cc60aeb79313"
 metafile = true
 
 [[files]]
+file = "mods/forge-config-screens.pw.toml"
+hash = "ce34a8d15dcff8b7f1328115cabb897e0b5d63ca90822e16318846df2d6f7552"
+metafile = true
+
+[[files]]
 file = "mods/forgified-fabric-api.pw.toml"
 hash = "609bb98f1b3384e5484cb05fd1ae4b33704ab5994594a0bf183d00a254d285c4"
 metafile = true
@@ -896,6 +906,11 @@ metafile = true
 [[files]]
 file = "mods/kubejs.pw.toml"
 hash = "612ce3a907cabb6629f4347320b1104fb2cf202ed6176b510da45b55735dd01c"
+metafile = true
+
+[[files]]
+file = "mods/lazurite.pw.toml"
+hash = "c397996477dbd2c0055f4737422f8882f890afb6084003ec465f34067dbcf4f4"
 metafile = true
 
 [[files]]
