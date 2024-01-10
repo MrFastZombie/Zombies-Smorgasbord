@@ -745,11 +745,6 @@ hash = "107d43eaec4b656e198ac68571315ec47ed3f143b8d76800d88df702a678f041"
 metafile = true
 
 [[files]]
-file = "mods/gamemenumodoption.pw.toml"
-hash = "bb798676e1a411b30830b4ffc87b45e583ea1b6d6cd80e8f6ed5315da1eaca4d"
-metafile = true
-
-[[files]]
 file = "mods/gamemenuremovegfarb.pw.toml"
 hash = "eea9317342e08524705405da75e5c9034a935c70bd0399e826789540025e58d4"
 metafile = true
