@@ -1334,11 +1334,6 @@ hash = "ccefbc00ed1838907acb5ec379784f9a52a1141c880ef0282e9c079355876702"
 metafile = true
 
 [[files]]
-file = "mods/slot-cycler.pw.toml"
-hash = "5dbd813cd96cc0bae5c5fcaa4854a53d0a0cb29f68db8b05f240f56a1e502db9"
-metafile = true
-
-[[files]]
 file = "mods/smelting-sand-in-blast-furnace.pw.toml"
 hash = "0ea4cf6de486c632799cc3c05a1c9b30b764c256ca2b819608546e27dce16520"
 metafile = true
