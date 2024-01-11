@@ -1,0 +1,13 @@
+name = "NBT Autocomplete"
+filename = "NBTac-FORGE-1.20.1-1.1.7.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/UR0ocuEt/versions/36dElHpR/NBTac-FORGE-1.20.1-1.1.7.jar"
+hash-format = "sha1"
+hash = "e2a9b443edf2f6a59bc7846e7056c22e281500d1"
+
+[update]
+[update.modrinth]
+mod-id = "UR0ocuEt"
+version = "36dElHpR"

@@ -1,0 +1,13 @@
+name = "Pickable Health Orbs"
+filename = "pickableorbs-1.20.1-3.0.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/2rt0dSUr/versions/w4bwMYWP/pickableorbs-1.20.1-3.0.1.jar"
+hash-format = "sha1"
+hash = "895a6bf5939f7d15ca7e93ed09c993f0a0e9c4a4"
+
+[update]
+[update.modrinth]
+mod-id = "2rt0dSUr"
+version = "w4bwMYWP"

@@ -13,6 +13,10 @@ file = "configureddefaults/config/customstars.json"
 hash = "9998eded7eae3f071a337560ce01bbe9ae590836de6180cd165f843bdbe6964a"
 
 [[files]]
+file = "kubejs/data/apotheosis/affixes/armor/attribute/blessed.json"
+hash = "021d735b970593c7ba6d9fbdc45091fc7fd55cc6ba1194b17ee3051c651290ee"
+
+[[files]]
 file = "mods/Structory_1.20.2_v1.3.4.jar"
 hash = "b23b6565cac9af8c30a3f5faa110b3b6def6aa0d6d410c178107aacc1524d9a5"
 
@@ -313,6 +317,11 @@ metafile = true
 [[files]]
 file = "mods/collective.pw.toml"
 hash = "14dee244835896ecf74aeb0e2e9f86176ec208c9b981471cd8a599bab5966a9d"
+metafile = true
+
+[[files]]
+file = "mods/colorful-hearts.pw.toml"
+hash = "992b9e8e84f8694ccb2c514f37b237e259e9044718f0400a7900318c5ab6bcb6"
 metafile = true
 
 [[files]]
@@ -1064,6 +1073,11 @@ hash = "c730f5a36bad3b8f4ffd4fdb9d1c87e5c84af61c0c5f53df5ee3df2ba068dfa1"
 metafile = true
 
 [[files]]
+file = "mods/nbt-autocomplete.pw.toml"
+hash = "9b01fcc4f5c1bc854143608d490d0e0f1c4c5e2221ede6853201d5ebd8f86019"
+metafile = true
+
+[[files]]
 file = "mods/neat.pw.toml"
 hash = "705a6751200d38054d77546f18edc6feba0e30b8fc2095db3af1838d88fb0405"
 metafile = true
@@ -1146,6 +1160,11 @@ metafile = true
 [[files]]
 file = "mods/pick-up-notifier.pw.toml"
 hash = "3e801878ddaf67fddccf599fe9c1e23e3df39f633e90d68c76a49905d55c2925"
+metafile = true
+
+[[files]]
+file = "mods/pickable-health-orbs.pw.toml"
+hash = "ba2917b5b1efcc1df86470fa596428b4035f03eb234c13adf8d1a08b7a1f7b29"
 metafile = true
 
 [[files]]
