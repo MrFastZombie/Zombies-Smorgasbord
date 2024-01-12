@@ -500,8 +500,9 @@ hash = "1b9ee39fd1356323e4079873e9513535f635e5681d94ac8fb5bc2487dfbd5b78"
 metafile = true
 
 [[files]]
-file = "mods/custom-stars-1.2.1+1.20.jar"
-hash = "1651bdaa7b53151b7f678edcacf9017aedb406a5c2a33377cf1310992dd7b35e"
+file = "mods/custom-stars.pw.toml"
+hash = "a3b5754d4757a974c2050c9b71c0338bf68c1edc210f88a7448d09b464730992"
+metafile = true
 
 [[files]]
 file = "mods/dark-utilities.pw.toml"
