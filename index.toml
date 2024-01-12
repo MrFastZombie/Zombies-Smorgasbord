@@ -1538,6 +1538,11 @@ hash = "9a417c6fc118cbb0938c118853b7016d674bd07cb170215f1b0d21a1683d974e"
 metafile = true
 
 [[files]]
+file = "mods/wakes.pw.toml"
+hash = "d2204436e91a07f38ff42ee5fba565924cf7192e6615b78774dc4bd130a43014"
+metafile = true
+
+[[files]]
 file = "mods/wares.pw.toml"
 hash = "0ddadef906669a28f8985dfe889f5a9066229bb5884df696f46b3ac1b3f89d2d"
 metafile = true
@@ -1565,6 +1570,11 @@ metafile = true
 [[files]]
 file = "mods/xaeros-world-map.pw.toml"
 hash = "2c5ce0de743555c3ada8f0e82f22791f28034e3bd4a3011794ebfd906a05c428"
+metafile = true
+
+[[files]]
+file = "mods/yacl.pw.toml"
+hash = "df67b18f6d44e2e4d94c75f01d06c4f95affdf115c6e72e80b157a7d176d4f34"
 metafile = true
 
 [[files]]
