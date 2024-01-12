@@ -41,10 +41,6 @@ file = "mods/Structory_1.20.2_v1.3.4.jar"
 hash = "b23b6565cac9af8c30a3f5faa110b3b6def6aa0d6d410c178107aacc1524d9a5"
 
 [[files]]
-file = "mods/XP+From+Harvest+Reworked-1.20.x-1.2.4.jar"
-hash = "e23ac6278f9e1f3b9838677df0d71430ffa7ba6f7c4ff5c3bbd684e7a18d5b42"
-
-[[files]]
 file = "mods/advanced-peripherals.pw.toml"
 hash = "8287fd8d32b5277804e6d52a7f720229f79176289a18af884f9a67e120d4424b"
 metafile = true
@@ -1572,6 +1568,11 @@ metafile = true
 [[files]]
 file = "mods/xaeros-world-map.pw.toml"
 hash = "2c5ce0de743555c3ada8f0e82f22791f28034e3bd4a3011794ebfd906a05c428"
+metafile = true
+
+[[files]]
+file = "mods/xp-from-harvest-reworked.pw.toml"
+hash = "c19bfc3be2801ec13d242674b93d6ca456d6cbdf50733d08b66487af3dbebeaf"
 metafile = true
 
 [[files]]
