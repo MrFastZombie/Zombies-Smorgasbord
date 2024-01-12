@@ -1543,10 +1543,6 @@ hash = "9a417c6fc118cbb0938c118853b7016d674bd07cb170215f1b0d21a1683d974e"
 metafile = true
 
 [[files]]
-file = "mods/wakes-0.2.3.jar"
-hash = "0202c8fe96076bca43a849773c1d3fe1f841605835440e088b62edfc5b7df93c"
-
-[[files]]
 file = "mods/wares.pw.toml"
 hash = "0ddadef906669a28f8985dfe889f5a9066229bb5884df696f46b3ac1b3f89d2d"
 metafile = true
