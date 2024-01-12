@@ -1,0 +1,8 @@
+name = "itemswapper"
+filename = "itemswapper-fabric-0.5.3-mc1.20.1.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/RPOSBQgq/versions/NEBVxulw/itemswapper-fabric-0.5.3-mc1.20.1.jar"
+hash-format = "sha256"
+hash = "b1f347394a2616836341b1e7d5c16bf469871e79714604d7324c7e73fb1649bf"

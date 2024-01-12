@@ -860,8 +860,9 @@ hash = "fd23d47068cbfc4d56dfebc4c0fb3e52d687c9dc6403aa45e948c0fdcb0364a8"
 metafile = true
 
 [[files]]
-file = "mods/itemswapper-fabric-0.5.3-mc1.20.1.jar"
-hash = "b1f347394a2616836341b1e7d5c16bf469871e79714604d7324c7e73fb1649bf"
+file = "mods/itemswapper.pw.toml"
+hash = "3d5da6b7c2df0f1780eed4e2a8941644fb9b36b7953faf3adbdc25118c362647"
+metafile = true
 
 [[files]]
 file = "mods/jade-addons-forge.pw.toml"
