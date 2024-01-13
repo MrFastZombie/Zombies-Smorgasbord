@@ -9,12 +9,20 @@ file = "README.md"
 hash = "1f416804e9dd1dab5691b6671e73397d727fc9ecb4edd8fb8bb8fdfe767d6587"
 
 [[files]]
+file = "config/apotheosis/garden.cfg"
+hash = "3af5f6976a8f476496a473fe91e3da55be3a3e6ecee6971a88bf077f7a5adda9"
+
+[[files]]
 file = "configureddefaults/config/Advancedperipherals/world.toml"
 hash = "bdc53953e8bf37d8b715be9d3d188adaecc95d71b6c605987da91999da41d5f9"
 
 [[files]]
 file = "configureddefaults/config/alexsmobs.toml"
 hash = "f5732922665302d72ea541d2191cdb57b63b40fa8c4226d70ddddc41aa5233f5"
+
+[[files]]
+file = "configureddefaults/config/apotheosis/names.cfg"
+hash = "3e100a98bde7167f67d28c7a8d885f8f129f7d748addbf63281c5e90f2694dca"
 
 [[files]]
 file = "configureddefaults/config/ars_nouveau-common.toml"
@@ -62,7 +70,7 @@ metafile = true
 
 [[files]]
 file = "mods/almost-unified.pw.toml"
-hash = "7492c07b691dd6a055014b58e3393fe6ca8e3e86bb4403fa273ebf2616b6f574"
+hash = "5d724509bb87823620895f51eb91362bdac8f6bbf85cdf78ccb5cb03495868e6"
 metafile = true
 
 [[files]]
@@ -227,7 +235,7 @@ metafile = true
 
 [[files]]
 file = "mods/bocchium.pw.toml"
-hash = "959cd2e99609b8329711ddae8c114f769ab3a86bcbff221d9cc47d4cb7734e36"
+hash = "3fb042b1a6710a2b17d5303b8410548e0346db9bacc0834b8d28b1651cc9dfd1"
 metafile = true
 
 [[files]]
@@ -742,7 +750,7 @@ metafile = true
 
 [[files]]
 file = "mods/forge-config-screens.pw.toml"
-hash = "ce34a8d15dcff8b7f1328115cabb897e0b5d63ca90822e16318846df2d6f7552"
+hash = "59b3e2099b15b9df5b01a853931d7766648aec1d2b3a4acc6542f581c9eec0f6"
 metafile = true
 
 [[files]]
@@ -821,11 +829,6 @@ hash = "c2269a9e657db40350aea860ad7b115abbc8aaad5a131d68b503841751ad182b"
 metafile = true
 
 [[files]]
-file = "mods/incendium.pw.toml"
-hash = "05bedf66c1081d32e21bfd72b11b218a56090461ebd7c9ffd311a81fbb1bfde6"
-metafile = true
-
-[[files]]
 file = "mods/inventory-essentials.pw.toml"
 hash = "02ae7c6bac56915122621b677cdc334c2651b182009caf451c80b3e177e37d02"
 metafile = true
@@ -873,11 +876,6 @@ metafile = true
 [[files]]
 file = "mods/jaopca.pw.toml"
 hash = "33a89b5e58910722a5550689a92ccf73708b000cb147cd8f3a7eb08d34f9d3ef"
-metafile = true
-
-[[files]]
-file = "mods/jei.pw.toml"
-hash = "a8d1c2c0b6a2759bad40371344a53f2046c535b95eb303ee910f5ab97a348c3d"
 metafile = true
 
 [[files]]
@@ -1212,7 +1210,7 @@ metafile = true
 
 [[files]]
 file = "mods/playeranimator.pw.toml"
-hash = "ff8d2e7f3340858e8409b1feaef921ddc7ac6637bc33cbaf1af9256b5f34c277"
+hash = "30484a8787dd30e579c7098b77d0c1d243044c7458828b87d8c81c92001717fa"
 metafile = true
 
 [[files]]
@@ -1291,6 +1289,11 @@ hash = "2ee09989be97fc523f45f9e96795070fc61c58cabb323b12e0a34aa94b335ef2"
 metafile = true
 
 [[files]]
+file = "mods/rei.pw.toml"
+hash = "78c2924034bad9bfe4ecfa7367e3e4efbadb2e1634f98e67d725bdc8a9c40398"
+metafile = true
+
+[[files]]
 file = "mods/resourceful-config.pw.toml"
 hash = "34362e5abd35e83a1041971ce75a8e621dbebebde25f9e48e2b843e9608f7c65"
 metafile = true
@@ -1318,6 +1321,11 @@ metafile = true
 [[files]]
 file = "mods/rightclickharvest.pw.toml"
 hash = "bdb82e60106867e222b060ecec3df3cb06b95e4de34bf61f7109f07dd20a1191"
+metafile = true
+
+[[files]]
+file = "mods/roughly-enough-items-hacks.pw.toml"
+hash = "7a39d6d8faddf9ac5f10aa1b3c271b8dc27b1f79531bdbeefb8d268b68e9eef5"
 metafile = true
 
 [[files]]
@@ -1476,6 +1484,11 @@ hash = "6d6f38ed97a83a65a42cedacef640faa54f00f04f3384a604911235c97d53020"
 metafile = true
 
 [[files]]
+file = "mods/the-graveyard-forge.pw.toml"
+hash = "6e1021078595a26dc52f9f3b380f5bf6e12d0627e3090421454393b1002c52ff"
+metafile = true
+
+[[files]]
 file = "mods/tidal-towns.pw.toml"
 hash = "5d3a6812ad065ed4e6d84824d053757ca9f798eb0e0ef9bc8a103aba950022e2"
 metafile = true
@@ -1562,7 +1575,7 @@ metafile = true
 
 [[files]]
 file = "mods/xaeros-minimap.pw.toml"
-hash = "ea249f3828b5ac118f8e7c42924e45fa266d3464a79b2f7cdfc52c4d14513612"
+hash = "329162fc6f6507b979ef4d04cba921894b9da54ace34db26ba4c0c8a7509d0cf"
 metafile = true
 
 [[files]]
