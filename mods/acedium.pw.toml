@@ -9,4 +9,4 @@ hash = "0d1a59d626a599f3654db9e577b72906d8eba29802faf402d2321c9bb9ecf11f"
 
 [option]
 optional = true
-description = "This mod only works for Nvidia users with most GPUs made since 2018. If you use this, do not use Distant Horizons. This is a fork of Nvidium."
+description = "This mod only works for Nvidia users with most GPUs made since 2018. This is a fork of Nvidium. This mod greatly increases performance with large render distances. You can also increase your render distance past 32 with this and it will incur little performance penalty."

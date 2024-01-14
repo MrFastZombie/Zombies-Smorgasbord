@@ -62,7 +62,7 @@ hash = "b23b6565cac9af8c30a3f5faa110b3b6def6aa0d6d410c178107aacc1524d9a5"
 
 [[files]]
 file = "mods/acedium.pw.toml"
-hash = "99a2776a80f4f0ffe4b3802bbebb914082e03ec946d0fd5dee08b3eeef69a0f2"
+hash = "ba44f541cbd6a7c55e3772b996538c210df13bc2fb07892c5edc985fc6355e85"
 metafile = true
 
 [[files]]
@@ -572,7 +572,7 @@ metafile = true
 
 [[files]]
 file = "mods/distanthorizons.pw.toml"
-hash = "c83a46ffcecab3484637bed2642cf4b5b46dab9379ee837e264ea32964a1c75c"
+hash = "bcbac9de91512ee14af30da97159027cab910aeab9dcc15b2fb4f61780244e9e"
 metafile = true
 
 [[files]]
@@ -877,7 +877,7 @@ metafile = true
 
 [[files]]
 file = "mods/itemswapper.pw.toml"
-hash = "3d5da6b7c2df0f1780eed4e2a8941644fb9b36b7953faf3adbdc25118c362647"
+hash = "f9c22577a37d5e9aa051daa630cae665756329901418d24fce34303801f35d77"
 metafile = true
 
 [[files]]
