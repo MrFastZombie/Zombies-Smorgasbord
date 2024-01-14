@@ -37,6 +37,10 @@ file = "configureddefaults/config/customstars.json"
 hash = "9998eded7eae3f071a337560ce01bbe9ae590836de6180cd165f843bdbe6964a"
 
 [[files]]
+file = "configureddefaults/config/modernfix-mixins.properties"
+hash = "7a507cfec761086bcee41695cdf6a9ce60efa4708a35a5541afeb375575736ca"
+
+[[files]]
 file = "configureddefaults/options.txt"
 hash = "a5f96faa4eb0f3aff29fe2773d266aebbdd8c6846a40d80a8dcd23ea46ee292b"
 
