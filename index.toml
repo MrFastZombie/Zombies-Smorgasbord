@@ -30,7 +30,7 @@ hash = "c492d44305287db8671fe3bae1e3e4150f1742af2957d65283e21dc6f2293ba7"
 
 [[files]]
 file = "configureddefaults/config/bobby.toml"
-hash = "e14e64bcf77c0d81efa8a8becd593410c962e1b1d9e999dc60640aa03106bbbd"
+hash = "609a6cce52380612947a38aad4fa82cd4510115c83637ac3e276c1aee638cbb4"
 
 [[files]]
 file = "configureddefaults/config/customstars.json"
@@ -1461,6 +1461,11 @@ hash = "61e88480a7df95b00cae33f2dec5eadadd96ba4d68e2536ca036584495961a4f"
 metafile = true
 
 [[files]]
+file = "mods/spyglass-improvements.pw.toml"
+hash = "9b612a6995d9cbf4d2a8ca26db36a6d302b488597c3973ca5fb9d4f254d3bb72"
+metafile = true
+
+[[files]]
 file = "mods/storage-drawers.pw.toml"
 hash = "592910d12bfb5966d1c142b2ba219e6b79a09f96e3c06a4cef3d93645d1ec3f7"
 metafile = true
@@ -1553,11 +1558,6 @@ metafile = true
 [[files]]
 file = "mods/valhelsia-structures.pw.toml"
 hash = "5fef246e23abd9fa405ab3af2faa56bfadf668d46a001b1af3772c0afe6989fd"
-metafile = true
-
-[[files]]
-file = "mods/vanilla-zoom.pw.toml"
-hash = "3b06cd1137aeee898803ef441917823bfe2a75ebcb511d9d8a90017c2ff05eba"
 metafile = true
 
 [[files]]
