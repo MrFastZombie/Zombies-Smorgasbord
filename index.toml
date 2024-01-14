@@ -29,8 +29,16 @@ file = "configureddefaults/config/ars_nouveau-common.toml"
 hash = "c492d44305287db8671fe3bae1e3e4150f1742af2957d65283e21dc6f2293ba7"
 
 [[files]]
+file = "configureddefaults/config/bobby.toml"
+hash = "e14e64bcf77c0d81efa8a8becd593410c962e1b1d9e999dc60640aa03106bbbd"
+
+[[files]]
 file = "configureddefaults/config/customstars.json"
 hash = "9998eded7eae3f071a337560ce01bbe9ae590836de6180cd165f843bdbe6964a"
+
+[[files]]
+file = "configureddefaults/options.txt"
+hash = "a5f96faa4eb0f3aff29fe2773d266aebbdd8c6846a40d80a8dcd23ea46ee292b"
 
 [[files]]
 file = "defaultconfigs/caupona-server.toml"
@@ -47,6 +55,11 @@ hash = "22c04fe2c6bf95fb3f09ba23513595c842699f31ba9c734c4daf4aa69cd94140"
 [[files]]
 file = "mods/Structory_1.20.2_v1.3.4.jar"
 hash = "b23b6565cac9af8c30a3f5faa110b3b6def6aa0d6d410c178107aacc1524d9a5"
+
+[[files]]
+file = "mods/acedium.pw.toml"
+hash = "99a2776a80f4f0ffe4b3802bbebb914082e03ec946d0fd5dee08b3eeef69a0f2"
+metafile = true
 
 [[files]]
 file = "mods/advanced-peripherals.pw.toml"
@@ -231,6 +244,11 @@ metafile = true
 [[files]]
 file = "mods/blossom.pw.toml"
 hash = "af2d0a9470fd6eb418de04dd2e99e06ffbf14f498b3cfefda6f3abcdd83dc4ce"
+metafile = true
+
+[[files]]
+file = "mods/bobby-reforged.pw.toml"
+hash = "2a332a8963ab384a27f5257d38f9b78ad6d94f591dfd2eb14439d43abd5685da"
 metafile = true
 
 [[files]]
@@ -550,7 +568,7 @@ metafile = true
 
 [[files]]
 file = "mods/distanthorizons.pw.toml"
-hash = "fe79cc78adf75a5aa3f32b2ac61a141ee7a4db1baebf628bee058a9c4381b255"
+hash = "c83a46ffcecab3484637bed2642cf4b5b46dab9379ee837e264ea32964a1c75c"
 metafile = true
 
 [[files]]
@@ -701,11 +719,6 @@ metafile = true
 [[files]]
 file = "mods/farming-for-blockheads.pw.toml"
 hash = "4db64b70cbc5b078b807402a1e82ad324a44495958c1236390beaaeebf4d689e"
-metafile = true
-
-[[files]]
-file = "mods/farsight.pw.toml"
-hash = "895a16cc23b52ea6f851727c04199deae43eedb5bc9d6d121d20bf7f3a97c70a"
 metafile = true
 
 [[files]]

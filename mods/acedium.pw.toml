@@ -1,0 +1,12 @@
+name = "acedium"
+filename = "acedium-0.2.5-beta.jar"
+side = "client"
+
+[download]
+url = "https://github.com/ferriarnus/acedium/releases/download/v0.2.5-1.20.1/acedium-0.2.5-beta.jar"
+hash-format = "sha256"
+hash = "0d1a59d626a599f3654db9e577b72906d8eba29802faf402d2321c9bb9ecf11f"
+
+[option]
+optional = true
+description = "This mod only works for Nvidia users with most GPUs made since 2018. If you use this, do not use Distant Horizons. This is a fork of Nvidium."

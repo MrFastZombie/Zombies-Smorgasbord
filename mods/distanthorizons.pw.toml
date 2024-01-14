@@ -11,3 +11,7 @@ hash = "b42adab2ec0a2919db552a7acbe71196eb6e183c"
 [update.modrinth]
 mod-id = "uCdwusMi"
 version = "fAVxiMK6"
+
+[option]
+optional = true
+description = "This mod allows you to generate LODs for viewing past your render distance. If you can, use Acedium instead."
