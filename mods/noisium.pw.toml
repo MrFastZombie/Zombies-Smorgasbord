@@ -1,0 +1,7 @@
+name = "noisium"
+filename = "noisium-1.0.2+mc1.20.x.jar"
+
+[download]
+url = "https://cdn.modrinth.com/data/KuNKN7d2/versions/7p5BqRHp/noisium-1.0.2%2Bmc1.20.x.jar"
+hash-format = "sha256"
+hash = "5ac6daa5b1c00f66a3cd5be44b80523e336a98bf3c113ffe118d31865ad95ef0"

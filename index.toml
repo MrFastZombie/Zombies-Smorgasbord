@@ -341,6 +341,11 @@ hash = "58de3eb3fec1467a6d1e0efd3c77f36546dbb208031a1eb5f2bdc4e93a93fc4b"
 metafile = true
 
 [[files]]
+file = "mods/chunk-sending-forge-fabric.pw.toml"
+hash = "86252c4e6701b798dac5ddef4b0fa6b6f5bdb280e83945b5b98d7c0be4441a35"
+metafile = true
+
+[[files]]
 file = "mods/chunky.pw.toml"
 hash = "0e82cf003a7ae18edfad6964fb76d7a7230e546f45e56fccae7eca7bd84eee90"
 metafile = true
@@ -358,6 +363,11 @@ metafile = true
 [[files]]
 file = "mods/cleardespawn.pw.toml"
 hash = "cc273b2754a713b68314feb5d89e0a80ba3e43fb2b89e571dc308daf31b97e8d"
+metafile = true
+
+[[files]]
+file = "mods/client-crafting.pw.toml"
+hash = "b2273dfa899b8d78f6df86faef01d4a3754da66a238b0066ba0dd53971936fb6"
 metafile = true
 
 [[files]]
@@ -752,7 +762,7 @@ metafile = true
 
 [[files]]
 file = "mods/fast-async-world-save-forge-fabric.pw.toml"
-hash = "6adbb3a1e69cd2c98143fbda4db699c477d38cd5b494ffd559d7a4e47dc485c5"
+hash = "bfa4f03702e36f00e6298755eca6a87dfa75718c0352b73253a87b225f58335c"
 metafile = true
 
 [[files]]
@@ -766,8 +776,13 @@ hash = "664f7a8dc0f00bf49ce11063adc281db6e6d2305d467b2bc535b9dd64cc25acb"
 metafile = true
 
 [[files]]
-file = "mods/fastload.pw.toml"
-hash = "76fb1070a6a4578dafcdce08b7f4c65be43401120e6f356b7b3d8507b596d8b7"
+file = "mods/fastfurnace.pw.toml"
+hash = "941194b650fa31742558efb25a2bc92b8bb6089da8cbf0f0eed096a6f76138b6"
+metafile = true
+
+[[files]]
+file = "mods/fastsuite.pw.toml"
+hash = "f66951f1aede8b984643c636b2f3177354395254f9e60a9728dbcbcf1d94668d"
 metafile = true
 
 [[files]]
@@ -783,6 +798,11 @@ metafile = true
 [[files]]
 file = "mods/findme.pw.toml"
 hash = "22f2e9a6df23fabdab4eb8e663feadb3d0659098d08d7ae762723b0420d0ff0e"
+metafile = true
+
+[[files]]
+file = "mods/fix-gpu-memory-leak.pw.toml"
+hash = "c4032dc8c4f85576b7d89f719aa56241fbcdede45d3fc8bad43c86e499d01a67"
 metafile = true
 
 [[files]]
@@ -833,6 +853,11 @@ metafile = true
 [[files]]
 file = "mods/geckolib.pw.toml"
 hash = "e27d8ceb849b339d2d491c80a54759bb2d3a48afe61fa931683f4ff235caaf2d"
+metafile = true
+
+[[files]]
+file = "mods/get-it-together-drops.pw.toml"
+hash = "bd702422ad441d7b72776afd732dc49b1907a560a541c99034e8d0916b2459bd"
 metafile = true
 
 [[files]]
@@ -1021,6 +1046,11 @@ hash = "11076d97e1627a4355d0bc985896766d50f9161e38f22f50a7abdbdad371e6ad"
 metafile = true
 
 [[files]]
+file = "mods/log-begone.pw.toml"
+hash = "f369b964d1b74e172729a5fd4c1eef169c8758001e086e5281d5ec01cce0ae55"
+metafile = true
+
+[[files]]
 file = "mods/login-protection.pw.toml"
 hash = "01a492b04d121e0f24c5879f994e1ed4dfb588e82b98337a67673665465f923d"
 metafile = true
@@ -1186,6 +1216,11 @@ hash = "c3190dcd456e0e009b62c5a54ad7fdf27f0311f4912b2d7d1c4a43ab264648ab"
 metafile = true
 
 [[files]]
+file = "mods/noisium.pw.toml"
+hash = "acb3e432efcb9a52e313255baf08b579dd6aeafb1d51669ec3a36ca6e7cd7585"
+metafile = true
+
+[[files]]
 file = "mods/notenoughcrashes.pw.toml"
 hash = "5b13150838b876b284751bcfc4935d05eb153ff165fb2606122eb94301916b51"
 metafile = true
@@ -1348,6 +1383,11 @@ metafile = true
 [[files]]
 file = "mods/rechiseled.pw.toml"
 hash = "663b996b6ebea5c1ba69e70484a3a9980961408e08373b3ddc0a6921b1752dbd"
+metafile = true
+
+[[files]]
+file = "mods/recipe-essentials-forge-fabric.pw.toml"
+hash = "79d1ff6cc67a1c63a1632c20918e85acf366487a2f11b53e752c9047a26dcd72"
 metafile = true
 
 [[files]]

@@ -1,13 +1,13 @@
 name = "Fast Async World Save[Forge/Fabric]"
-filename = "fastasyncworldsave-1.20.1-1.2.jar"
+filename = "fastasyncworldsave-1.20.1-1.4.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "f38683dde474843d2727e9fcac0f2bee171f9ed1"
+hash = "32f8dd4920f75e346ee3b85ea98228e29d1213da"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 4966223
+file-id = 5022372
 project-id = 951499
