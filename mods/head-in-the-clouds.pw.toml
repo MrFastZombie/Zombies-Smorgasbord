@@ -1,0 +1,8 @@
+name = "head-in-the-clouds"
+filename = "head_in_the_clouds-1.0.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/Agw7MFEL/versions/amAjC2Zw/head_in_the_clouds-1.0.1.jar"
+hash-format = "sha256"
+hash = "3cbeba333a139263e2fe5b192cb49c43c35c226eb5c18130633c217fd30d7489"

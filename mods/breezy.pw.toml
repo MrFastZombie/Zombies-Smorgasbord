@@ -1,0 +1,13 @@
+name = "Breezy"
+filename = "breezy-1.20.1-1.1.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/AiTMEFuN/versions/Dg8eYgqd/breezy-1.20.1-1.1.1.jar"
+hash-format = "sha1"
+hash = "658fc7c2269ecd2a3a55608ea05e440113946d74"
+
+[update]
+[update.modrinth]
+mod-id = "AiTMEFuN"
+version = "Dg8eYgqd"

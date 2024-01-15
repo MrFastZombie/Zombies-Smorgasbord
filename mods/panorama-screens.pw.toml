@@ -1,0 +1,13 @@
+name = "Panorama Screens"
+filename = "panorama_screens-1.0+forge+mc1.20.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/4k0QM1rC/versions/ppnTvZVX/panorama_screens-1.0%2Bforge%2Bmc1.20.jar"
+hash-format = "sha1"
+hash = "5ce53c726965c223c3a0d082ba029b33701f919f"
+
+[update]
+[update.modrinth]
+mod-id = "4k0QM1rC"
+version = "ppnTvZVX"

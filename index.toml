@@ -216,6 +216,16 @@ hash = "ea13f11420714ed7adb660f06483322c849092dc287d3b1e860443f1781c1300"
 metafile = true
 
 [[files]]
+file = "mods/better-burning.pw.toml"
+hash = "01e9bde4d621e86d361cc2cedf7ce0158cad86877688aa4ff8e28703e7cda4b7"
+metafile = true
+
+[[files]]
+file = "mods/better-clouds.pw.toml"
+hash = "eb17e76dd76bcdbeb31529e2226fdc323e9a02738891bc7fb6ac153c24a4e18a"
+metafile = true
+
+[[files]]
 file = "mods/better-combat.pw.toml"
 hash = "44b02dfddb6b019916aab1ded7974ff136a7a7e6367e40de8ac0a3f00f32cad0"
 metafile = true
@@ -273,6 +283,11 @@ metafile = true
 [[files]]
 file = "mods/botarium.pw.toml"
 hash = "094cb92e607e41697681402009b9480a9c30339db82b412f6df32570b443bfb5"
+metafile = true
+
+[[files]]
+file = "mods/breezy.pw.toml"
+hash = "871cddf20ba52c4fc451d1e4caf8712b063270300fee907d57d9325ffe327682"
 metafile = true
 
 [[files]]
@@ -387,7 +402,7 @@ metafile = true
 
 [[files]]
 file = "mods/connector-extras.pw.toml"
-hash = "798f09b1012e1b2559440b40c96402938ca716cac310e98a13fe0f71fb1ff64b"
+hash = "ffe1c86b1d8f6c23932ba5f20ebecd44884da0ca31c1e6ce2ecf1e951047dae9"
 metafile = true
 
 [[files]]
@@ -602,7 +617,7 @@ metafile = true
 
 [[files]]
 file = "mods/dynamiccrosshair.pw.toml"
-hash = "03d3697a00e6c528e7d73e17f9d71220a1ae6e8b9ac4c2637e6dc3d9952ab768"
+hash = "7649eb945d320486c8862197130ac0d5052254fe791d13fec0b6aaacf56381e2"
 metafile = true
 
 [[files]]
@@ -627,7 +642,12 @@ metafile = true
 
 [[files]]
 file = "mods/embeddiumplus.pw.toml"
-hash = "37fbbc3c7a107a9ae8e75f60a21d59dca320a0bef6aaf36e843f9b133c9f7c02"
+hash = "eb2aa4d52bd1352cee719a23510b9e0ed7d8f9cdd3d31e790b15e4c74cdfe5e7"
+metafile = true
+
+[[files]]
+file = "mods/embers.pw.toml"
+hash = "2036b454f3bca7b95e7d152398e577e024b50a7304d5ce5df6fba6328e83c9a1"
 metafile = true
 
 [[files]]
@@ -653,6 +673,11 @@ metafile = true
 [[files]]
 file = "mods/endertanks.pw.toml"
 hash = "dbb331adc5f4dc4fa55b68ea9232b5cc06c67d63af7f2d81c039fc8cbd048f6d"
+metafile = true
+
+[[files]]
+file = "mods/engineered-compatibility.pw.toml"
+hash = "106acef44fc2f94ac31f1e20b24d4556b8a2034d905dc7244a15eddf01684567"
 metafile = true
 
 [[files]]
@@ -761,6 +786,11 @@ hash = "22f2e9a6df23fabdab4eb8e663feadb3d0659098d08d7ae762723b0420d0ff0e"
 metafile = true
 
 [[files]]
+file = "mods/footprintparticle.pw.toml"
+hash = "833c4c1c2080e87965051bd77577156a8268cb645dc44633446a01833473a805"
+metafile = true
+
+[[files]]
 file = "mods/forbidden-arcanus.pw.toml"
 hash = "82edae501ea32b9ed6939a9ca81122345bd081137529421dfa98cc60aeb79313"
 metafile = true
@@ -826,6 +856,11 @@ hash = "7b460acaa50fb6814f31028a47d6e885c0faf7b6fe1f3d303eec85314920147a"
 metafile = true
 
 [[files]]
+file = "mods/head-in-the-clouds.pw.toml"
+hash = "6c7549bce65a03b0f9caa7b29c64c25e7624fa3b0c2b3714d4868139122deefe"
+metafile = true
+
+[[files]]
 file = "mods/highlight.pw.toml"
 hash = "ee8e026f46f06f68fa61abfd0e50b195c3348c8ecbbcac8eeb8fc7a05c1219ba"
 metafile = true
@@ -867,7 +902,7 @@ metafile = true
 
 [[files]]
 file = "mods/irons-spells-n-spellbooks.pw.toml"
-hash = "5dbb3bb1b412d72418a4ced9ced860954f86d3979e7250a7f2ef5af92ce4decd"
+hash = "014df4a12b418b345ff754bb7a4149856cc8e5c2b95bbf26e1ee8b1922b01897"
 metafile = true
 
 [[files]]
@@ -983,6 +1018,11 @@ metafile = true
 [[files]]
 file = "mods/lmd.pw.toml"
 hash = "11076d97e1627a4355d0bc985896766d50f9161e38f22f50a7abdbdad371e6ad"
+metafile = true
+
+[[files]]
+file = "mods/login-protection.pw.toml"
+hash = "01a492b04d121e0f24c5879f994e1ed4dfb588e82b98337a67673665465f923d"
 metafile = true
 
 [[files]]
@@ -1106,6 +1146,16 @@ hash = "c730f5a36bad3b8f4ffd4fdb9d1c87e5c84af61c0c5f53df5ee3df2ba068dfa1"
 metafile = true
 
 [[files]]
+file = "mods/natures-aura.pw.toml"
+hash = "6b16e3fbaa46394441f867785fec5ae465f4f75b412a9b9bf211f8ab4345c530"
+metafile = true
+
+[[files]]
+file = "mods/natures-compass.pw.toml"
+hash = "38eb04b5ae4e429509e8c90fed921719d600166d9be12fcd4f263cce3b117c8a"
+metafile = true
+
+[[files]]
 file = "mods/nbt-autocomplete.pw.toml"
 hash = "9b01fcc4f5c1bc854143608d490d0e0f1c4c5e2221ede6853201d5ebd8f86019"
 metafile = true
@@ -1173,6 +1223,11 @@ metafile = true
 [[files]]
 file = "mods/packet-fixer.pw.toml"
 hash = "c26b38b07ba7c5d4a48e41598c01563e99e54e8d780915d7dbb98e49fabcc217"
+metafile = true
+
+[[files]]
+file = "mods/panorama-screens.pw.toml"
+hash = "0a4fdd8a609a5cdc7aa3d6aa02c34d7ff0180170fb177e3032fe1aa43f808d93"
 metafile = true
 
 [[files]]
@@ -1366,6 +1421,11 @@ hash = "f435fb26b5ce5e660cf709d8415732d19f4fe1aa498edbd55a7ae5af1e8c802f"
 metafile = true
 
 [[files]]
+file = "mods/separated-leaves.pw.toml"
+hash = "66586ae58a0bb1c6f4a55b038eae0788be250629c203fb4f6efc0d3eb0417b4e"
+metafile = true
+
+[[files]]
 file = "mods/sewing-kit.pw.toml"
 hash = "ed5f4958a953107360d49c46de6fb49317361ee73aadd184e1d00f24644200f4"
 metafile = true
@@ -1486,8 +1546,13 @@ hash = "846e5450dd20b8b8a2987fd034b225da89bed99b968ad937f2564cb99d1fe27a"
 metafile = true
 
 [[files]]
+file = "mods/tax-free-levels.pw.toml"
+hash = "6a31c9a49e26fe3d29b36c70292127575cec48d4560b25937a64e4147183cf11"
+metafile = true
+
+[[files]]
 file = "mods/tectonic.pw.toml"
-hash = "d4999aa4a0af3e06221075e4cbf62a8ffdc50537353d494ac40dd73f12bc173c"
+hash = "65fa078fab8243283a0c8d569787a7146c4ee3d57f865cd5cb159b184ea1764b"
 metafile = true
 
 [[files]]

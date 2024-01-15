@@ -1,13 +1,13 @@
 name = "Connector Extras"
-filename = "ConnectorExtras-1.9.0+1.20.1.jar"
+filename = "ConnectorExtras-1.9.2+1.20.1.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "8b1d1c4a2a0a50cdf788556e6fa4ee9c419a0d1a"
+hash = "3925f190a31e57219ad15122b5a80db36598a544"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 4999315
+file-id = 5027683
 project-id = 913445
