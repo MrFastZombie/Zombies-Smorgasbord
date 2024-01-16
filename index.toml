@@ -17,6 +17,10 @@ file = "configureddefaults/config/Advancedperipherals/world.toml"
 hash = "bdc53953e8bf37d8b715be9d3d188adaecc95d71b6c605987da91999da41d5f9"
 
 [[files]]
+file = "configureddefaults/config/HeadInTheClouds.json5"
+hash = "e5bfd6106218c6629853f1aef7d8c9bb37744996fd673feb7ff3d94d65cd6d27"
+
+[[files]]
 file = "configureddefaults/config/alexsmobs.toml"
 hash = "f5732922665302d72ea541d2191cdb57b63b40fa8c4226d70ddddc41aa5233f5"
 
@@ -29,6 +33,10 @@ file = "configureddefaults/config/ars_nouveau-common.toml"
 hash = "c492d44305287db8671fe3bae1e3e4150f1742af2957d65283e21dc6f2293ba7"
 
 [[files]]
+file = "configureddefaults/config/artifacts/common.json5"
+hash = "0056a667710eb2b90e05ceaa26696b26eb16fd1d8ddabe001d4093658f95a8d0"
+
+[[files]]
 file = "configureddefaults/config/bobby.toml"
 hash = "609a6cce52380612947a38aad4fa82cd4510115c83637ac3e276c1aee638cbb4"
 
@@ -37,8 +45,20 @@ file = "configureddefaults/config/customstars.json"
 hash = "9998eded7eae3f071a337560ce01bbe9ae590836de6180cd165f843bdbe6964a"
 
 [[files]]
+file = "configureddefaults/config/expanded_ecosphere/config.json5"
+hash = "29d8e0a9bb92a40ddfd9b1d4087d5ecdec2f853f2fb1dfe34812f28bbca26d08"
+
+[[files]]
 file = "configureddefaults/config/modernfix-mixins.properties"
 hash = "7a507cfec761086bcee41695cdf6a9ce60efa4708a35a5541afeb375575736ca"
+
+[[files]]
+file = "configureddefaults/config/rats-common.toml"
+hash = "b8897c27ca796701880b9dae6267a6f2055251aa2ab446f2c9a316ccdd7811df"
+
+[[files]]
+file = "configureddefaults/config/treechop-common.toml"
+hash = "c865623efd9a90e947ab5cf661c64f0b3ecad204e5fd429048766b843910029f"
 
 [[files]]
 file = "configureddefaults/options.txt"
