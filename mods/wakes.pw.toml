@@ -1,7 +1,13 @@
 name = "wakes"
 filename = "wakes-0.2.2.jar"
+side = "client"
 
 [download]
 url = "https://cdn.modrinth.com/data/dlNu0RQY/versions/mgtR7Ajv/wakes-0.2.2.jar"
 hash-format = "sha256"
 hash = "468530d4aa14819a650a00fb962335dd1680306fe313d8e3ad98bffbbda098d7"
+
+[option]
+optional = true
+description = "Shows cool wakes when stuff moves in the water. See https://modrinth.com/mod/wakes for details. Possible FPS drops?"
+

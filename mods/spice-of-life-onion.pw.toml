@@ -1,0 +1,13 @@
+name = "Spice of Life Onion"
+filename = "SoLOnion_FORGE_v1.2.2_mc1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/eHGYGKJz/versions/S9mW4aO3/SoLOnion_FORGE_v1.2.2_mc1.20.1.jar"
+hash-format = "sha1"
+hash = "513969a02a6efaf4a9ff7d307676da82bcb5dedf"
+
+[update]
+[update.modrinth]
+mod-id = "eHGYGKJz"
+version = "S9mW4aO3"

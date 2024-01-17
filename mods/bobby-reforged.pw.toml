@@ -1,6 +1,6 @@
 name = "Bobby Reforged"
 filename = "bobby-1.20.1_v5.0.1.jar"
-side = "both"
+side = "client"
 
 [download]
 hash-format = "sha1"
@@ -11,3 +11,7 @@ mode = "metadata:curseforge"
 [update.curseforge]
 file-id = 4650227
 project-id = 883502
+
+[option]
+optional = true
+description = "Caches loaded chunks on servers so that you can load chunks beyond the server view distance, even without revisiting them. May cause stuttering on weaker CPUs."

@@ -1,0 +1,7 @@
+name = "quark-oddities"
+filename = "QuarkOddities-1.20.1.jar"
+
+[download]
+url = "https://cdn.discordapp.com/attachments/1196723085408206870/1196744041396715652/QuarkOddities-1.20.1.jar"
+hash-format = "sha256"
+hash = "230af45e645ebe36f621d0b4362afed6ad0faf940129f4363aaba8058f245576"

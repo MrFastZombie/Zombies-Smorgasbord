@@ -1,0 +1,7 @@
+name = "quark"
+filename = "Quark-4.0-beta-430.3234.jar"
+
+[download]
+url = "https://cdn.discordapp.com/attachments/1196723085408206870/1196948061969195068/Quark-4.0-beta-430.3234.jar"
+hash-format = "sha256"
+hash = "57a9a8dba5a189ed805e658c6d0dd78d840168ee07a33f1eb1f15a4a981eebdf"

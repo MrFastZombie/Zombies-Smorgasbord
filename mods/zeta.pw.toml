@@ -1,0 +1,7 @@
+name = "zeta"
+filename = "Zeta-1.0-beta-3.jar"
+
+[download]
+url = "https://cdn.discordapp.com/attachments/1196723085408206870/1196744041774194728/Zeta-1.0-beta-3.jar"
+hash-format = "sha256"
+hash = "d76e0a34f7419798af01fd883f6bf4bd4b377300a2d11f3f5336e52817dea993"

@@ -22,7 +22,7 @@ hash = "e5bfd6106218c6629853f1aef7d8c9bb37744996fd673feb7ff3d94d65cd6d27"
 
 [[files]]
 file = "configureddefaults/config/alexsmobs.toml"
-hash = "f5732922665302d72ea541d2191cdb57b63b40fa8c4226d70ddddc41aa5233f5"
+hash = "ddef86895defbd2291f4d5ee0bec331cf62c57deffaf5884754c49114125dbce"
 
 [[files]]
 file = "configureddefaults/config/apotheosis/names.cfg"
@@ -41,6 +41,10 @@ file = "configureddefaults/config/bobby.toml"
 hash = "609a6cce52380612947a38aad4fa82cd4510115c83637ac3e276c1aee638cbb4"
 
 [[files]]
+file = "configureddefaults/config/create-client.toml"
+hash = "ee0286d2507179afc5416e838f62e2a1f8268bffd0b6d89a539a855cc56a0132"
+
+[[files]]
 file = "configureddefaults/config/customstars.json"
 hash = "9998eded7eae3f071a337560ce01bbe9ae590836de6180cd165f843bdbe6964a"
 
@@ -53,8 +57,24 @@ file = "configureddefaults/config/modernfix-mixins.properties"
 hash = "7a507cfec761086bcee41695cdf6a9ce60efa4708a35a5541afeb375575736ca"
 
 [[files]]
+file = "configureddefaults/config/pickupnotifier/pickupnotifier-client.toml"
+hash = "c96b0926c6115459becd036c206baff3356a96c50a529efeac31ee717d283041"
+
+[[files]]
+file = "configureddefaults/config/pickupnotifier/pickupnotifier-server.toml"
+hash = "6e18bfa2ec02629937474e436f3f44fb67d54fd6e6b47a7c9b4c5b3a3bd83916"
+
+[[files]]
+file = "configureddefaults/config/quark-common.toml"
+hash = "ddccfd2470a32d83b380515c6127156fcf78f5c7cd10e82385f997179667478d"
+
+[[files]]
 file = "configureddefaults/config/rats-common.toml"
 hash = "b8897c27ca796701880b9dae6267a6f2055251aa2ab446f2c9a316ccdd7811df"
+
+[[files]]
+file = "configureddefaults/config/roughlyenoughitems/config.json5"
+hash = "4aab98c440b34df1416411a4028c5f19dbe2751599f06a24abf7c60a6459ff48"
 
 [[files]]
 file = "configureddefaults/config/treechop-common.toml"
@@ -92,7 +112,7 @@ metafile = true
 
 [[files]]
 file = "mods/ae2.pw.toml"
-hash = "c0e28d40745671abdda3c2c945e138765ea2996739bbbe0d18261f573e2245de"
+hash = "795d8e7f803f53d432f1f9440d3edccdf891f9799d448c5815283fd6086b2a3c"
 metafile = true
 
 [[files]]
@@ -212,7 +232,7 @@ metafile = true
 
 [[files]]
 file = "mods/badoptimizations.pw.toml"
-hash = "d76c913069b9ecd5091ffe2d736db084ba07a7f3a9a8b3fe63ecf86827710b8e"
+hash = "4531db2542b54aeea35ae6ab95da5a50667c0d53644ae5c43fb5a94b1237e9dd"
 metafile = true
 
 [[files]]
@@ -282,7 +302,7 @@ metafile = true
 
 [[files]]
 file = "mods/bobby-reforged.pw.toml"
-hash = "2a332a8963ab384a27f5257d38f9b78ad6d94f591dfd2eb14439d43abd5685da"
+hash = "e1d89634a5d54b2d41c42032536de81ada90fc1fe3a7e511a163422736cd9465"
 metafile = true
 
 [[files]]
@@ -358,6 +378,11 @@ metafile = true
 [[files]]
 file = "mods/chipped.pw.toml"
 hash = "58de3eb3fec1467a6d1e0efd3c77f36546dbb208031a1eb5f2bdc4e93a93fc4b"
+metafile = true
+
+[[files]]
+file = "mods/chisels-bits.pw.toml"
+hash = "9f7f2f35ccbca3e16fa3941199d89d6340fae1d15b9bedc9e53037c617e41db4"
 metafile = true
 
 [[files]]
@@ -537,7 +562,7 @@ metafile = true
 
 [[files]]
 file = "mods/creativecore.pw.toml"
-hash = "6b9bfad1ddf13f84427480a5b8e9dbfb261d339692c12042e3105416710c0889"
+hash = "3c214179d325f7667fc26932b8f4100ccbe00817a774c7ebfecd889542e9e3e1"
 metafile = true
 
 [[files]]
@@ -667,7 +692,7 @@ metafile = true
 
 [[files]]
 file = "mods/embeddium.pw.toml"
-hash = "7375ef224927b2075f3f58bcc348f54a1f91ec99a34e5406e232109b6dc963a7"
+hash = "a56422457504a6bdabee7441b050124baab086ed3daf48420b3f44776b0561d5"
 metafile = true
 
 [[files]]
@@ -742,7 +767,7 @@ metafile = true
 
 [[files]]
 file = "mods/every-compat.pw.toml"
-hash = "81700677c4bec1ade7e4790ed8cbbeaaa5d966e2577078db430f6107889ea14e"
+hash = "53c62aa02ceae9f66b2204090f3314499dc497aadad2e6d8beb450bc1d7ba29f"
 metafile = true
 
 [[files]]
@@ -842,7 +867,7 @@ metafile = true
 
 [[files]]
 file = "mods/forgified-fabric-api.pw.toml"
-hash = "609bb98f1b3384e5484cb05fd1ae4b33704ab5994594a0bf183d00a254d285c4"
+hash = "3290fbbb43d941dea0f4f954c88e3e6b1d69dd51331271ec304bccac221fa169"
 metafile = true
 
 [[files]]
@@ -1167,7 +1192,7 @@ metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "aaad2f7658513caf163e98e26fca2c67ecf1f95a2e906942cc801031d3c46d2c"
+hash = "51a242a5737e16aa35bc1c5d5c5d6858d37c0519da761858753cea43f591225c"
 metafile = true
 
 [[files]]
@@ -1376,6 +1401,16 @@ hash = "779f8e900d077b92d501377126e6912296f812c7a2a2cb9807dd7b7b04005a15"
 metafile = true
 
 [[files]]
+file = "mods/quark-oddities.pw.toml"
+hash = "2125fd6b9be783c41381a69ac4de3e666e8e0905b0d39e1d59f4bf49a10a7d30"
+metafile = true
+
+[[files]]
+file = "mods/quark.pw.toml"
+hash = "feb799c24cd8b31ca5388a7aba31e02704ca710a59e5c701773639950c884c6f"
+metafile = true
+
+[[files]]
 file = "mods/radium.pw.toml"
 hash = "fd2c664fa12ed30ff71cf58cbc9e32265cd92b892640ff9bb415e924f48fb942"
 metafile = true
@@ -1581,6 +1616,11 @@ hash = "61e88480a7df95b00cae33f2dec5eadadd96ba4d68e2536ca036584495961a4f"
 metafile = true
 
 [[files]]
+file = "mods/spice-of-life-onion.pw.toml"
+hash = "9ef028d5dd984deac6755e69888feb8215a2ba3e72b8a29217d894c13d606286"
+metafile = true
+
+[[files]]
 file = "mods/spyglass-improvements.pw.toml"
 hash = "9b612a6995d9cbf4d2a8ca26db36a6d302b488597c3973ca5fb9d4f254d3bb72"
 metafile = true
@@ -1602,7 +1642,7 @@ metafile = true
 
 [[files]]
 file = "mods/supplementaries.pw.toml"
-hash = "846e5450dd20b8b8a2987fd034b225da89bed99b968ad937f2564cb99d1fe27a"
+hash = "7e1b385a3879359b1950774c9451e4c973edcc963741f36e62bee9f372456201"
 metafile = true
 
 [[files]]
@@ -1692,7 +1732,7 @@ metafile = true
 
 [[files]]
 file = "mods/wakes.pw.toml"
-hash = "d2204436e91a07f38ff42ee5fba565924cf7192e6615b78774dc4bd130a43014"
+hash = "8c54e5ba9145dde09ec3297e03cce94f73b4543955050206f4ddecd3ba3f01aa"
 metafile = true
 
 [[files]]
@@ -1793,6 +1833,11 @@ metafile = true
 [[files]]
 file = "mods/zerocore.pw.toml"
 hash = "60fd10d77b6b1c06696b082895f75e1de441d9a3b31c5b6289461d0445318a5f"
+metafile = true
+
+[[files]]
+file = "mods/zeta.pw.toml"
+hash = "5757118c82cf80de9312a77adf98a3a82bddead4aef29959c877ebce1f274cc3"
 metafile = true
 
 [[files]]
