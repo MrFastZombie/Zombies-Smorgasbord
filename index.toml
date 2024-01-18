@@ -1846,13 +1846,15 @@ hash = "698803c9a356bcd7a18afe9ba18bc9e3b6182a760d86215a62d40855f81ad766"
 metafile = true
 
 [[files]]
-file = "resourcepacks/Creative Music.zip"
-hash = "67bd06f4071673057ff82516237724b2771b1e4b7606594c5e67cd48343161a1"
-
-[[files]]
-file = "resourcepacks/Farlands song.zip"
-hash = "4144ec59c715ff3256c3c682c997466ed60c599991e077b365b0747b7028474c"
-
-[[files]]
 file = "resourcepacks/Xaero's+Minimap+-+Mod+Icons.zip"
 hash = "95144c4b60efd94068c0ecc4db4a63e2fffcd40e0501ffc30a18cb601e6847fe"
+
+[[files]]
+file = "resourcepacks/creative-music.pw.toml"
+hash = "9371a719ae4f72d3006288d4ed22384cf0b49ade84555f8a157bba114419043a"
+metafile = true
+
+[[files]]
+file = "resourcepacks/steelman-music-collection.pw.toml"
+hash = "870c538e440445170ce07c7c310e5e075897b101756d10ffd3a1bf649809878b"
+metafile = true

@@ -1,0 +1,13 @@
+name = "Steelman Music Collection"
+filename = "SteelmanMusicCollection-1.0.zip"
+side = "client"
+
+[download]
+hash-format = "sha1"
+hash = "e2a93a83400727c9eab1a0e26843a95ca250b335"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4644280
+project-id = 888693
