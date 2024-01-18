@@ -13,6 +13,10 @@ file = "config/apotheosis/garden.cfg"
 hash = "3af5f6976a8f476496a473fe91e3da55be3a3e6ecee6971a88bf077f7a5adda9"
 
 [[files]]
+file = "config/carryon-common.toml"
+hash = "008a2a0900c97381a8ee09e7307ef55cde68b4db34ef4ae6b7e46431b7e00ef5"
+
+[[files]]
 file = "configureddefaults/config/Advancedperipherals/world.toml"
 hash = "bdc53953e8bf37d8b715be9d3d188adaecc95d71b6c605987da91999da41d5f9"
 
@@ -57,6 +61,10 @@ file = "configureddefaults/config/modernfix-mixins.properties"
 hash = "7a507cfec761086bcee41695cdf6a9ce60efa4708a35a5541afeb375575736ca"
 
 [[files]]
+file = "configureddefaults/config/neat-client.toml"
+hash = "efe745de391af1cc9a92738be0ec9cd61d61358520a3f6dbc9ddb907fdcfb2d6"
+
+[[files]]
 file = "configureddefaults/config/pickupnotifier/pickupnotifier-client.toml"
 hash = "c96b0926c6115459becd036c206baff3356a96c50a529efeac31ee717d283041"
 
@@ -81,8 +89,16 @@ file = "configureddefaults/config/treechop-common.toml"
 hash = "c865623efd9a90e947ab5cf661c64f0b3ecad204e5fd429048766b843910029f"
 
 [[files]]
+file = "configureddefaults/config/xaerominimap.txt"
+hash = "a8f148ce9729070d113a39cd806419b5549b267b7b0d19a4c46ee16a1a4aeaa4"
+
+[[files]]
+file = "configureddefaults/config/xaeroworldmap.txt"
+hash = "6028733f967d0d0f6a80dd236d3dcc7d2446912c719ab9a7d3f83d8624d9b92d"
+
+[[files]]
 file = "configureddefaults/options.txt"
-hash = "a5f96faa4eb0f3aff29fe2773d266aebbdd8c6846a40d80a8dcd23ea46ee292b"
+hash = "a23e4842dfa254b45bb7f00b083232e3608f5887aaf5c3213a42f61b69e12f68"
 
 [[files]]
 file = "defaultconfigs/caupona-server.toml"
@@ -468,6 +484,11 @@ metafile = true
 [[files]]
 file = "mods/continents.pw.toml"
 hash = "f0a4562f19849d0bfc567017d4b6f04b57787ade7938a586aca24ec5481964d1"
+metafile = true
+
+[[files]]
+file = "mods/continuity.pw.toml"
+hash = "c4699e03ac6bd92b3d9b0e0e1238ceb6d4f01e449ebf7425e4b4021ca7e17787"
 metafile = true
 
 [[files]]
@@ -1850,8 +1871,63 @@ file = "resourcepacks/Xaero's+Minimap+-+Mod+Icons.zip"
 hash = "95144c4b60efd94068c0ecc4db4a63e2fffcd40e0501ffc30a18cb601e6847fe"
 
 [[files]]
+file = "resourcepacks/authentic-shadows.pw.toml"
+hash = "c327a189d9145dff0b8df1704173fc20a91b2f804c3d6346d7b3201ded0ad04c"
+metafile = true
+
+[[files]]
+file = "resourcepacks/better-flame-particles.pw.toml"
+hash = "fe840132599f95a1275972a3091c91eefd00a3f1dd8d3788a64e6ffe2032a3dd"
+metafile = true
+
+[[files]]
+file = "resourcepacks/bettervanillabuildingoverlays.pw.toml"
+hash = "4b922b53eefe13be539efffea4702e6a008e7aaa37eda91db5d662f6eaac9672"
+metafile = true
+
+[[files]]
 file = "resourcepacks/creative-music.pw.toml"
 hash = "9371a719ae4f72d3006288d4ed22384cf0b49ade84555f8a157bba114419043a"
+metafile = true
+
+[[files]]
+file = "resourcepacks/enchant-icons-countxd.pw.toml"
+hash = "e9e57742366174ee106acf48dbcbb2b03860b931600c8fbe1208961ca2661937"
+metafile = true
+
+[[files]]
+file = "resourcepacks/fancy-crops.pw.toml"
+hash = "ea9aa90fde2059d507c459c4c9900954ad9f30f631dae12707fce6249396f3db"
+metafile = true
+
+[[files]]
+file = "resourcepacks/icon-xaeros.pw.toml"
+hash = "10cf9efa0263b87d108959ad772fbc54d1bd679916e304462fdc7c07b6e3f1d8"
+metafile = true
+
+[[files]]
+file = "resourcepacks/icons-advertisement-removal.pw.toml"
+hash = "52ff33e4ca08eebe58ba8ae2c14e63668ada8f5eadd93e5aaac68b4d3ec3a176"
+metafile = true
+
+[[files]]
+file = "resourcepacks/icons.pw.toml"
+hash = "f96599c5b850458ad3d6b0dd6e234baa2ecc63ca635cec9827d2b8e005721a7d"
+metafile = true
+
+[[files]]
+file = "resourcepacks/os-colorful-grasses.pw.toml"
+hash = "7fac9c1ec3c150e4f265ab0d0c92f5a063308de6ee49f7b8ea038551e2470c4d"
+metafile = true
+
+[[files]]
+file = "resourcepacks/serified-font.pw.toml"
+hash = "7d5e3957eef8def8040a2b3ffe77eb8587838148be5cc63c1e8277719140c8f7"
+metafile = true
+
+[[files]]
+file = "resourcepacks/slightly-improved-font.pw.toml"
+hash = "2ca944e30a4816a0de1b71a1f2df37ca4d4b8eb4f9615e904cb22164328d5c97"
 metafile = true
 
 [[files]]

@@ -1,0 +1,14 @@
+name = "Os' Colorful Grasses"
+filename = "Os' Colorful Grasses (Full).zip"
+side = "client"
+pin = true
+
+[download]
+url = "https://cdn.modrinth.com/data/O2zhH8n8/versions/py7n5qju/Os%27%20Colorful%20Grasses%20%28Full%29.zip"
+hash-format = "sha1"
+hash = "12bd9351055f3425974f4b70f91c3876f56fc81f"
+
+[update]
+[update.modrinth]
+mod-id = "O2zhH8n8"
+version = "py7n5qju"

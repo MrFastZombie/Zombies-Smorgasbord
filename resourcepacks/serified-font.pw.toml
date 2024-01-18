@@ -1,0 +1,13 @@
+name = "Serified Font"
+filename = "Serified Font v1.0 pf1-22.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/L0iIXINl/versions/SWnWPtFS/Serified%20Font%20v1.0%20pf1-22.zip"
+hash-format = "sha1"
+hash = "e07ab6d6824c4095058b8467195a78489adb2c4a"
+
+[update]
+[update.modrinth]
+mod-id = "L0iIXINl"
+version = "SWnWPtFS"
