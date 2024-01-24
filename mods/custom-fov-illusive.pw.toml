@@ -1,0 +1,13 @@
+name = "Custom FOV"
+filename = "customfov-forge-6.2.1+1.20.1.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/uZAcFHLd/versions/kPJqP4hj/customfov-forge-6.2.1%2B1.20.1.jar"
+hash-format = "sha1"
+hash = "5863cef0a132f4337ccbeb9acdf88ce3a942d5da"
+
+[update]
+[update.modrinth]
+mod-id = "uZAcFHLd"
+version = "kPJqP4hj"

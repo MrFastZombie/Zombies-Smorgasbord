@@ -1,0 +1,13 @@
+name = "New Level"
+filename = "New_level.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/zlQDL9gs/versions/k2BYDZy0/New_level.zip"
+hash-format = "sha1"
+hash = "697b7c94087ccb23a7197af328a45600d791e79f"
+
+[update]
+[update.modrinth]
+mod-id = "zlQDL9gs"
+version = "k2BYDZy0"

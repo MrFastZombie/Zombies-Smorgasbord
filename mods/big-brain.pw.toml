@@ -1,0 +1,14 @@
+name = "Big Brain"
+filename = "bigbrain-1.20-1.7.2.jar"
+side = "both"
+pin = true
+
+[download]
+url = "https://cdn.modrinth.com/data/jRRBLkzK/versions/TdceP8aO/bigbrain-1.20-1.7.2.jar"
+hash-format = "sha1"
+hash = "fe02b671c277573eed24216172ce21f38a8e066d"
+
+[update]
+[update.modrinth]
+mod-id = "jRRBLkzK"
+version = "TdceP8aO"

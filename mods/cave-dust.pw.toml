@@ -1,0 +1,13 @@
+name = "Cave Dust"
+filename = "v2.0.1 - 1.20.1 - Forge.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/jawg7zT1/versions/A7S98Yta/v2.0.1%20-%201.20.1%20-%20Forge.jar"
+hash-format = "sha1"
+hash = "b3882ad92a7084a25b10c14ed1bfca9c99f9a406"
+
+[update]
+[update.modrinth]
+mod-id = "jawg7zT1"
+version = "A7S98Yta"

@@ -1,4 +1,5 @@
 version:3465
+speedFovEffectScale:0.0
 autoJump:false
 operatorItemsTab:false
 autoSuggestions:true

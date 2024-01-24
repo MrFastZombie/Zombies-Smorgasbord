@@ -1,0 +1,13 @@
+name = "Sneaky Link"
+filename = "sneaky_link-1.20.1-2.0.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/tah8XIYc/versions/OrIBHrmC/sneaky_link-1.20.1-2.0.0.jar"
+hash-format = "sha1"
+hash = "ea2bf06d7e3fd4d39e0b70be1c13a43093352d49"
+
+[update]
+[update.modrinth]
+mod-id = "tah8XIYc"
+version = "OrIBHrmC"

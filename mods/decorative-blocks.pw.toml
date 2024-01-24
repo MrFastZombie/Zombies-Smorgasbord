@@ -1,13 +1,13 @@
 name = "Decorative Blocks"
-filename = "decorative_blocks-forge-1.20.1-4.0.0.jar"
+filename = "decorative_blocks-forge-1.20.1-4.1.0.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/t6BIRVZn/versions/eM3MGsQ2/decorative_blocks-forge-1.20.1-4.0.0.jar"
+url = "https://cdn.modrinth.com/data/t6BIRVZn/versions/ensj9Kq3/decorative_blocks-forge-1.20.1-4.1.0.jar"
 hash-format = "sha1"
-hash = "961e3dcd0b98ca4eeb1280078283376d04164520"
+hash = "42f526de7ae88ceb549cf8e80085f0b9daa147df"
 
 [update]
 [update.modrinth]
 mod-id = "t6BIRVZn"
-version = "eM3MGsQ2"
+version = "ensj9Kq3"
