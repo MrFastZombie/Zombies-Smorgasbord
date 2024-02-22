@@ -1,0 +1,17 @@
+name = "Damage Numbers"
+filename = "damagenumbers-1.0.0-forge.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/iWdXs2dQ/versions/PMpYGZeM/damagenumbers-1.0.0-forge.jar"
+hash-format = "sha1"
+hash = "c1ebec26c20db147371f4744abe858092c8a373e"
+
+[update]
+[update.modrinth]
+mod-id = "iWdXs2dQ"
+version = "PMpYGZeM"
+
+[option]
+optional = true
+description = "Adds damage numbers that fall off enemies when you damage them."

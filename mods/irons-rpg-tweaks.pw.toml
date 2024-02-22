@@ -1,0 +1,13 @@
+name = "Iron's RPG Tweaks"
+filename = "irons_rpg_tweaks-1.20-1.1.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/otXdBiS4/versions/awtWbLa4/irons_rpg_tweaks-1.20-1.1.1.jar"
+hash-format = "sha1"
+hash = "8901f6a9b8ba541d602a0997e16e54a08858e7f0"
+
+[update]
+[update.modrinth]
+mod-id = "otXdBiS4"
+version = "awtWbLa4"

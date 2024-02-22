@@ -1,0 +1,13 @@
+name = "StarOcean's Better Kobold Tools"
+filename = "StarOcean's Better Kobold Tools.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/3B6Wx4PQ/versions/SpQRLB5z/StarOcean%27s%20Better%20Kobold%20Tools.zip"
+hash-format = "sha1"
+hash = "204758123e06adec00492d47c8c4a8a840218e5b"
+
+[update]
+[update.modrinth]
+mod-id = "3B6Wx4PQ"
+version = "SpQRLB5z"

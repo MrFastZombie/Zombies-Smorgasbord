@@ -1,7 +1,13 @@
-name = "zeta"
-filename = "Zeta-1.0-beta-3.jar"
+name = "Zeta"
+filename = "Zeta-1.0-13.jar"
+side = "both"
 
 [download]
-url = "https://cdn.discordapp.com/attachments/1196723085408206870/1196744041774194728/Zeta-1.0-beta-3.jar"
-hash-format = "sha256"
-hash = "d76e0a34f7419798af01fd883f6bf4bd4b377300a2d11f3f5336e52817dea993"
+url = "https://cdn.modrinth.com/data/MVARlG2f/versions/MrJwo3MU/Zeta-1.0-13.jar"
+hash-format = "sha1"
+hash = "1a949f6aeb19a48ff5b697b83a09b4bb411b4e6e"
+
+[update]
+[update.modrinth]
+mod-id = "MVARlG2f"
+version = "MrJwo3MU"

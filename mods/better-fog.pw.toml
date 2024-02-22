@@ -1,0 +1,11 @@
+name = "better-fog"
+filename = "BetterFog-1.20.1-1.2.2.jar"
+
+[download]
+url = "https://cdn.discordapp.com/attachments/1199520230116970556/1209360351888670720/BetterFog-1.20.1-1.2.2.jar?ex=65e6a398&is=65d42e98&hm=a62ffda7fc9c1d983eb4ccb1f5bcf719cf8be3f6f5e707fc74df9b3bbee67d74"
+hash-format = "sha256"
+hash = "fe158c55c648a489800445e707996809bab32ed6cbb27b0b118307187135577f"
+
+[option]
+optional = true
+description = "Improves fog rendering by introducing cave fog, cloud fog, night fog, etc. When using with Nvidium, do not set keep distance to 256 as it will disable the fog. Use 255 Instead, or lower for more intense surface fog. If using Distant Horizons: DH disables vanilla fog by default and this mod will not work on DH LODs.  Disable Fog Occulisionn in Embeddium. Do not disable Night Fog as it will cause a banding issue in the night sky."

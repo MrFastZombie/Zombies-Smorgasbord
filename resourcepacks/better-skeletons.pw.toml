@@ -1,0 +1,7 @@
+name = "better-skeletons"
+filename = "Better Skeletons.zip"
+
+[download]
+url = "https://cdn.modrinth.com/data/ab1yZ2md/versions/Pi7rBjHm/Better%20Skeletons.zip"
+hash-format = "sha256"
+hash = "96400a340b91bb3b6df348728b86c676d4747e83cae20f93d6c7823cf0472ab9"

@@ -1,13 +1,13 @@
 name = "Crate Delight"
-filename = "cratedelight-1.0.1-1.20.1.jar"
+filename = "cratedelight-1.0.3-1.20.1.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/9rlXSyLg/versions/sgEryVA4/cratedelight-1.0.1-1.20.1.jar"
+url = "https://cdn.modrinth.com/data/9rlXSyLg/versions/bnec5p4Z/cratedelight-1.0.3-1.20.1.jar"
 hash-format = "sha1"
-hash = "0ce376c6a769dfdb7c6475a1b8f63ea26a41a10a"
+hash = "c032873848a35537b9d629cb31c9553385fb7ab6"
 
 [update]
 [update.modrinth]
 mod-id = "9rlXSyLg"
-version = "sgEryVA4"
+version = "bnec5p4Z"

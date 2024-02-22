@@ -1,0 +1,7 @@
+name = "dynamicsurroundingsfabric"
+filename = "DynamicSurroundings-Fabric-1.20.1-0.3.3.jar"
+
+[download]
+url = "https://cdn.modrinth.com/data/H7fshfpD/versions/SQuUb0Fo/DynamicSurroundings-Fabric-1.20.1-0.3.3.jar"
+hash-format = "sha256"
+hash = "c4c1b4386d09b91967bba21cafbff58947556057c29c2e2e1fffdd17ecff5493"

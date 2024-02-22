@@ -1,0 +1,13 @@
+name = "Ars Énergistique"
+filename = "arseng-1.1.5.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/IJI3QuK8/versions/DuicT74V/arseng-1.1.5.jar"
+hash-format = "sha1"
+hash = "fb7f3455d585d8cbabeb3df52d4a85050b153862"
+
+[update]
+[update.modrinth]
+mod-id = "IJI3QuK8"
+version = "DuicT74V"

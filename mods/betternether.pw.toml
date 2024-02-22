@@ -1,0 +1,7 @@
+name = "BetterNether"
+filename = "better-nether-9.0.10.jar"
+
+[download]
+url = "https://cdn.modrinth.com/data/MpzVLzy5/versions/IG7kgtJH/better-nether-9.0.10.jar"
+hash-format = "sha256"
+hash = "a516b6be2576292639ee21c495be6cae3a9e3c5e9c84c6fbab092895c314fe64"

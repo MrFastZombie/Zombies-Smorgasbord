@@ -1,7 +1,13 @@
-name = "quark-oddities"
+name = "Quark Oddities"
 filename = "QuarkOddities-1.20.1.jar"
+side = "both"
 
 [download]
-url = "https://cdn.discordapp.com/attachments/1196723085408206870/1196744041396715652/QuarkOddities-1.20.1.jar"
-hash-format = "sha256"
-hash = "230af45e645ebe36f621d0b4362afed6ad0faf940129f4363aaba8058f245576"
+url = "https://cdn.modrinth.com/data/qeEEslrN/versions/NrzERFzz/QuarkOddities-1.20.1.jar"
+hash-format = "sha1"
+hash = "69ed292c207af89febd156d83b3e78f64b35b969"
+
+[update]
+[update.modrinth]
+mod-id = "qeEEslrN"
+version = "NrzERFzz"

@@ -1,13 +1,13 @@
 name = "KubeJS"
-filename = "kubejs-forge-2001.6.4-build.120.jar"
+filename = "kubejs-forge-2001.6.4-build.138.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/umyGl7zF/versions/Br93DtM2/kubejs-forge-2001.6.4-build.120.jar"
+url = "https://cdn.modrinth.com/data/umyGl7zF/versions/DNX6SE7o/kubejs-forge-2001.6.4-build.138.jar"
 hash-format = "sha1"
-hash = "9e0f66e565e1ff6a22f20cf73e7da34e9584e304"
+hash = "481da8260990328d1e61c55ebeee3b525aa4c583"
 
 [update]
 [update.modrinth]
 mod-id = "umyGl7zF"
-version = "Br93DtM2"
+version = "DNX6SE7o"

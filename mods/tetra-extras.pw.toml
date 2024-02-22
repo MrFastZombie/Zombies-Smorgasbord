@@ -1,0 +1,13 @@
+name = "Tetra Extras"
+filename = "tetraextras-0.1.4-1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/wDvpvvcU/versions/7Ror5ofs/tetraextras-0.1.4-1.20.1.jar"
+hash-format = "sha1"
+hash = "a83c3b31c12d5f3e37f5991d5fcb2099173475fc"
+
+[update]
+[update.modrinth]
+mod-id = "wDvpvvcU"
+version = "7Ror5ofs"

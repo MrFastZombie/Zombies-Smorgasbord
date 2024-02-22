@@ -1,0 +1,13 @@
+name = "Majrusz's Enchantments"
+filename = "majruszs-enchantments-neoforge-1.20.1-1.10.7.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/jJthQvHv/versions/SfN2AOOZ/majruszs-enchantments-neoforge-1.20.1-1.10.7.jar"
+hash-format = "sha1"
+hash = "f099504545fd22039ff312555a210c0b135e7b13"
+
+[update]
+[update.modrinth]
+mod-id = "jJthQvHv"
+version = "SfN2AOOZ"

@@ -1,0 +1,13 @@
+name = "Apotheotic Creation"
+filename = "apotheoticcreation-1.0.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/RmI01fbW/versions/QiCo9oH1/apotheoticcreation-1.0.0.jar"
+hash-format = "sha1"
+hash = "0c10d8c3da5cedc9a102f66cd81a9444c69f3b2e"
+
+[update]
+[update.modrinth]
+mod-id = "RmI01fbW"
+version = "QiCo9oH1"
