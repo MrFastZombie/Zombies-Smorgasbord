@@ -1,13 +1,13 @@
 name = "Integrated API"
-filename = "integrated_api-1.3.4+1.20.1-forge.jar"
+filename = "integrated_api-1.4.0+1.20.1-forge.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/V6fKbpBN/versions/YqruRtEe/integrated_api-1.3.4%2B1.20.1-forge.jar"
+url = "https://cdn.modrinth.com/data/V6fKbpBN/versions/FHxMg1Sf/integrated_api-1.4.0%2B1.20.1-forge.jar"
 hash-format = "sha1"
-hash = "6ca6e6f2c555820f9513754067fa2881d6d1d2e3"
+hash = "4d19d06f2401d196373e7744246a982ba1579d61"
 
 [update]
 [update.modrinth]
 mod-id = "V6fKbpBN"
-version = "YqruRtEe"
+version = "FHxMg1Sf"
