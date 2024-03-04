@@ -5,3 +5,4 @@
 *.mrpack
 
 !resourcepacks/*.zip
+!config/paxi/datapacks/*.zip
