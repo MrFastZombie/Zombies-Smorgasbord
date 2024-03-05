@@ -1,13 +1,13 @@
 name = "Traveler's Titles"
-filename = "TravelersTitles-1.20-Forge-4.0.1.jar"
+filename = "TravelersTitles-1.20-Forge-4.0.2.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/JtifUr64/versions/ZA3ahpCR/TravelersTitles-1.20-Forge-4.0.1.jar"
+url = "https://cdn.modrinth.com/data/JtifUr64/versions/oUSK4sOQ/TravelersTitles-1.20-Forge-4.0.2.jar"
 hash-format = "sha1"
-hash = "0d3d9746fb2a78542095e93ebff0dc14dae56e53"
+hash = "64a435eaa6e08fff5af2c720c3b6a40fe292f2f7"
 
 [update]
 [update.modrinth]
 mod-id = "JtifUr64"
-version = "ZA3ahpCR"
+version = "oUSK4sOQ"

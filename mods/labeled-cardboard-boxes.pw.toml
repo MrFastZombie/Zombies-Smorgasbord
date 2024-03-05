@@ -1,0 +1,13 @@
+name = "Labeled Cardboard Boxes"
+filename = "labeledcardboardboxes-forge-1.20.1-1.1.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/f0fOt5qj/versions/QkIZBhij/labeledcardboardboxes-forge-1.20.1-1.1.0.jar"
+hash-format = "sha1"
+hash = "bdd1ee98f1d238aa59244afcee598c93b572b844"
+
+[update]
+[update.modrinth]
+mod-id = "f0fOt5qj"
+version = "QkIZBhij"

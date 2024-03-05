@@ -1,13 +1,13 @@
 name = "Majrusz's Accessories"
-filename = "majruszs-accessories-neoforge-1.20.1-1.5.1.jar"
+filename = "majruszs-accessories-neoforge-1.20.1-1.5.2.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/6roN0iTa/versions/wVJFtgYQ/majruszs-accessories-neoforge-1.20.1-1.5.1.jar"
+url = "https://cdn.modrinth.com/data/6roN0iTa/versions/QYxraMX5/majruszs-accessories-neoforge-1.20.1-1.5.2.jar"
 hash-format = "sha1"
-hash = "ae59b0a9264c9c91cd4efcbbf7c89832978fb625"
+hash = "e3efd80e1b80ea733ce4b4579464a786f5135178"
 
 [update]
 [update.modrinth]
 mod-id = "6roN0iTa"
-version = "wVJFtgYQ"
+version = "QYxraMX5"
