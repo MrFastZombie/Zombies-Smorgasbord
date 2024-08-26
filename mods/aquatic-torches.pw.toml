@@ -1,0 +1,13 @@
+name = "Aquatic Torches"
+filename = "aquatictorches-1.20.1-forge-1.1.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/yJR377od/versions/VZ827F6b/aquatictorches-1.20.1-forge-1.1.1.jar"
+hash-format = "sha1"
+hash = "f885d6ef2a6f5ce646401f7250474c019307c1fc"
+
+[update]
+[update.modrinth]
+mod-id = "yJR377od"
+version = "VZ827F6b"

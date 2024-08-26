@@ -1,13 +1,13 @@
 name = "Integrated Stronghold"
-filename = "integrated_stronghold-1.1.0+1.20.1-forge.jar"
+filename = "integrated_stronghold-1.1.1+1.20.1-forge.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/KUJdfPQz/versions/wSUvbYD5/integrated_stronghold-1.1.0%2B1.20.1-forge.jar"
+url = "https://cdn.modrinth.com/data/KUJdfPQz/versions/HX8UIG5u/integrated_stronghold-1.1.1%2B1.20.1-forge.jar"
 hash-format = "sha1"
-hash = "ccd93285d505583e1c1accb9c43f81c88595c98b"
+hash = "bfc95490873ae0563c9df4613f7ad70f3b17b402"
 
 [update]
 [update.modrinth]
 mod-id = "KUJdfPQz"
-version = "wSUvbYD5"
+version = "HX8UIG5u"

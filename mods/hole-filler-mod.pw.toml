@@ -1,0 +1,13 @@
+name = "Hole Filler Mod"
+filename = "hole_filler_mod-1.2.8_mc-1.20.1_forge.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/F3WCdx29/versions/CFuHK9nI/hole_filler_mod-1.2.8_mc-1.20.1_forge.jar"
+hash-format = "sha1"
+hash = "2fda72df9045fef4ba8c7ecbbbd1c04d473e2751"
+
+[update]
+[update.modrinth]
+mod-id = "F3WCdx29"
+version = "CFuHK9nI"

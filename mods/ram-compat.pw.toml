@@ -1,13 +1,13 @@
 name = "Relics: Alex's Mobs Compat"
-filename = "ramcompat-1.20.1-0.1.1.jar"
+filename = "ramcompat-1.20.1-0.1.2.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/uS725fXT/versions/GSajropv/ramcompat-1.20.1-0.1.1.jar"
+url = "https://cdn.modrinth.com/data/uS725fXT/versions/k7di3Fht/ramcompat-1.20.1-0.1.2.jar"
 hash-format = "sha1"
-hash = "c362fc3d89fc2bd8b3d8b1caa9f00e56cba47d6d"
+hash = "7510440d3f3b08c95e25acaf44f688bd24a4cc0d"
 
 [update]
 [update.modrinth]
 mod-id = "uS725fXT"
-version = "GSajropv"
+version = "k7di3Fht"

@@ -1,17 +1,17 @@
 name = "Distant Horizons"
-filename = "DistantHorizons-2.0.1-a-1.20.1.jar"
+filename = "DistantHorizons-2.2.0-a-1.20.1-forge-fabric.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/uCdwusMi/versions/fAVxiMK6/DistantHorizons-2.0.1-a-1.20.1.jar"
+url = "https://cdn.modrinth.com/data/uCdwusMi/versions/HH9YLh1q/DistantHorizons-2.2.0-a-1.20.1-forge-fabric.jar"
 hash-format = "sha1"
-hash = "b42adab2ec0a2919db552a7acbe71196eb6e183c"
+hash = "7763ed4bcdffa29c71f7b1b323ed513c687488cc"
 
 [update]
 [update.modrinth]
 mod-id = "uCdwusMi"
-version = "fAVxiMK6"
+version = "HH9YLh1q"
 
 [option]
 optional = true
-description = "This mod allows you to generate LODs for viewing past your render distance. If you must use one or the other I recommend using Acedium if possible, but they can work together. If usinng both, you shoudld disable Distant Generation and increase the LOD distance. Distant Horizons is greate with Acedium as it will allow you to see even further. May cause stuttering when loading chunks on weak CPUs."
+description = "This mod allows you to generate LODs for viewing past your render distance. If you must use one or the other I recommend using Acedium/Nvidium if possible, but they can work together. If usinng both, you shoudld disable Distant Generation and increase the LOD distance. Distant Horizons is great with Acedium/Nvidium as it will allow you to see even further. May cause stuttering when loading chunks on weak CPUs."

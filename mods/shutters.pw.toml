@@ -1,0 +1,13 @@
+name = "Shutters"
+filename = "shutter-2.0.4-1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/NjHNA0vG/versions/vNCJfVhV/shutter-2.0.4-1.20.1.jar"
+hash-format = "sha1"
+hash = "08f6582928ab5db3bceef9c926361eb15537c095"
+
+[update]
+[update.modrinth]
+mod-id = "NjHNA0vG"
+version = "vNCJfVhV"

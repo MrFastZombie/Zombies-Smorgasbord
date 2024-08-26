@@ -1,0 +1,13 @@
+name = "Dust's Keymap"
+filename = "keymap-0.9.0-beta.1+1.20.1-forge.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/B5uMasrz/versions/uQyJAqKe/keymap-0.9.0-beta.1%2B1.20.1-forge.jar"
+hash-format = "sha1"
+hash = "341f9774eb64208e5fae8435b396b56e584bbcf5"
+
+[update]
+[update.modrinth]
+mod-id = "B5uMasrz"
+version = "uQyJAqKe"
