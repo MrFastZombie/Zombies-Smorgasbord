@@ -17,6 +17,10 @@ file = "config/apotheosis/garden.cfg"
 hash = "3af5f6976a8f476496a473fe91e3da55be3a3e6ecee6971a88bf077f7a5adda9"
 
 [[files]]
+file = "config/badoptimizations.txt"
+hash = "c733cee24c7c5291471f89e13bafc07cac7ca3e36ce5d15c90df1831fbe7b0d5"
+
+[[files]]
 file = "config/carryon-common.toml"
 hash = "008a2a0900c97381a8ee09e7307ef55cde68b4db34ef4ae6b7e46431b7e00ef5"
 
@@ -87,6 +91,10 @@ hash = "c492d44305287db8671fe3bae1e3e4150f1742af2957d65283e21dc6f2293ba7"
 [[files]]
 file = "configureddefaults/config/artifacts/common.json5"
 hash = "0056a667710eb2b90e05ceaa26696b26eb16fd1d8ddabe001d4093658f95a8d0"
+
+[[files]]
+file = "configureddefaults/config/astrocraft.json"
+hash = "fb7cf1cac1fb0563548c4d7f0c995ed0937aeb55520e85375ee1ae82e6c87612"
 
 [[files]]
 file = "configureddefaults/config/bclib/client.json"
@@ -461,6 +469,11 @@ hash = "9c55eeb7b61f7180cbd99a833b9fab5cb9121f747610f9eefd6be7361d1d0a7b"
 metafile = true
 
 [[files]]
+file = "mods/astrocraft.pw.toml"
+hash = "7ece4eac7c20eae5a2004987c8ba0556f06512345a78b6512c92526c0eb0e681"
+metafile = true
+
+[[files]]
 file = "mods/async-locator.pw.toml"
 hash = "16547af18d4d618164f2aac97bf51c7aebf7fbcf948b3e0fcd18048ce718ebd1"
 metafile = true
@@ -622,7 +635,7 @@ metafile = true
 
 [[files]]
 file = "mods/blueprint.pw.toml"
-hash = "8cede39c9c4b41ecadf7d2ae94c1ec266b5a8a8207e9a5001e2e78708d1659f3"
+hash = "dc0b2fab9c86d45c490e46a37bf1560698425f2c83609853a6c530b2b38ce321"
 metafile = true
 
 [[files]]
@@ -827,12 +840,12 @@ metafile = true
 
 [[files]]
 file = "mods/connector-extras.pw.toml"
-hash = "b1859dc0ec39712165eac3d4dc0dc6b41053b586f2ea088800905069ee34f621"
+hash = "ca80a80a9a068c01ad3b2d8d484a943897b6e87325ca70e5dea2d59c2eba9160"
 metafile = true
 
 [[files]]
 file = "mods/connector.pw.toml"
-hash = "de98aa581a459eb2a37a106074b4379982983e93ba72bbf69235b050f9970cb3"
+hash = "2bda116744ab10a64e92dc6f97549850e5d74b58b985f406818a8f76abcba7f7"
 metafile = true
 
 [[files]]
@@ -1023,11 +1036,6 @@ metafile = true
 [[files]]
 file = "mods/custom-fov-illusive.pw.toml"
 hash = "b7aeb9e14e1c15f8a4e8eebf4e72035200335f6a09d78236bb36f7f4d4edfaa5"
-metafile = true
-
-[[files]]
-file = "mods/custom-stars.pw.toml"
-hash = "a3b5754d4757a974c2050c9b71c0338bf68c1edc210f88a7448d09b464730992"
 metafile = true
 
 [[files]]
@@ -1372,7 +1380,7 @@ metafile = true
 
 [[files]]
 file = "mods/forgified-fabric-api.pw.toml"
-hash = "fa7e0ab11ad48e2b52df7342bf4a413ac0c5015a2e80fc822e11133dbcd9164c"
+hash = "83e5ef8ddf5f41c33cde52de9b4991067e8701ecb89353c3a5219a55f6ff04d5"
 metafile = true
 
 [[files]]
@@ -1477,7 +1485,7 @@ metafile = true
 
 [[files]]
 file = "mods/immersive-weathering.pw.toml"
-hash = "bcc129101643d0643d4a52ec72bd7775ac8df5193b3becd625ed964f11c6abd8"
+hash = "7a7f0016536b0763ce3f7c3d3062a094673a63196e95356107768c431f1b7102"
 metafile = true
 
 [[files]]
@@ -1812,7 +1820,7 @@ metafile = true
 
 [[files]]
 file = "mods/moonlight.pw.toml"
-hash = "7b122f096c66f146c67d511152908bdb3cd85f21af86f556ac435d97c4cf2ffd"
+hash = "dfa629484d068b798114e568195f39f3a28134567c5aa2f67acb9c66e7faa088"
 metafile = true
 
 [[files]]
@@ -1927,7 +1935,7 @@ metafile = true
 
 [[files]]
 file = "mods/oreganized.pw.toml"
-hash = "a43f88775d94c7dcf482866b899372fa38982ae5af982b77c3da32587ea3edda"
+hash = "55a86c748559ba3bc84a1fd2f67ddd447d1cb7fdfd2e07f72621f6682b31b730"
 metafile = true
 
 [[files]]
