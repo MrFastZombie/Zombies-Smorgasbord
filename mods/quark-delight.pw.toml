@@ -1,0 +1,11 @@
+name = "quark-delight"
+filename = "quark_delight_1.0.0_forge_1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://www.curseforge.com/api/v1/mods/963245/files/5052580/download"
+
+# A number of tools can generate the hash for you, including 7-zip and sha256sum
+# packwiz supports a number of hashes, including sha256, sha512, sha1 and md5
+hash-format = "sha256"
+hash = "1CA98C2776CBB0F4FEB226D26ADDA6E393CB5A393D74B1397F4F2136E563193B"

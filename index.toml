@@ -245,10 +245,6 @@ file = "kubejs/server_scripts/tetra_apoth.js"
 hash = "fc58052aa9f5f953d49ba6b79c957302d842bc3b6bc3c7faae8e11596fa231e7"
 
 [[files]]
-file = "mods/BeeFix-1.20-1.0.7.jar"
-hash = "5fa50cfbd0ee3d0472ba8e9162d40e9556ea930a6bbcf93de2ab751365b58566"
-
-[[files]]
 file = "mods/acedium.pw.toml"
 hash = "9d3f3cf96e70c36e61e204a3629217740770c02330214df4f0d774cfa286e4e4"
 metafile = true
@@ -526,6 +522,11 @@ metafile = true
 [[files]]
 file = "mods/bedspreads.pw.toml"
 hash = "f50e5f4a3a85bfd9f6fa5cbde6a798a0e664502eb357a3685b2df83a3eaaa942"
+metafile = true
+
+[[files]]
+file = "mods/bee-fix.pw.toml"
+hash = "0a86ea26cc59f2d4661e80a0d4238a07311d5803ee880734d81aa77e2cf0fb70"
 metafile = true
 
 [[files]]
@@ -2049,6 +2050,11 @@ hash = "af94e8930aa37a5be7510b721d3cde32e40ef60964cd10bf701491a43ba4744a"
 metafile = true
 
 [[files]]
+file = "mods/quark-delight.pw.toml"
+hash = "2d00a77b5f283b74678157fe9feeea4759579e5c1d1bd6ceeca724d7779eab0f"
+metafile = true
+
+[[files]]
 file = "mods/quark-oddities.pw.toml"
 hash = "4b6d6900e40ceea949928423e7863817aeb07c17dba719ca45dac34d3f8d5b41"
 metafile = true
@@ -2057,10 +2063,6 @@ metafile = true
 file = "mods/quark.pw.toml"
 hash = "2bf1f46465f3a9650a62eb30c0608a566c1ad56e256bdfa378d5fca0e6245f42"
 metafile = true
-
-[[files]]
-file = "mods/quark_delight_1.0.0_forge_1.20.1.jar"
-hash = "1ca98c2776cbb0f4feb226d26adda6e393cb5a393d74b1397f4f2136e563193b"
 
 [[files]]
 file = "mods/radium.pw.toml"
