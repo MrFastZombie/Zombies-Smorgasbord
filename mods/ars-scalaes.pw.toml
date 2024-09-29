@@ -1,13 +1,13 @@
 name = "Ars Scalaes"
-filename = "ars_scalaes-1.20.1-1.10.1-alpha.jar"
+filename = "ars_scalaes-1.20.1-1.10.6.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "f95d4b950758f28bedfe5b56ffcd11f705586986"
+hash = "e31c75fe14889962d761e93c7f4aaf0490bbf785"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 4893492
+file-id = 5475621
 project-id = 630431

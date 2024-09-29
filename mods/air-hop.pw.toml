@@ -1,13 +1,13 @@
 name = "Air Hop"
-filename = "AirHop-v8.0.0-1.20.1-Forge.jar"
+filename = "AirHop-v8.0.2-1.20.1-Forge.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/g1eaCZgs/versions/afGEsJqq/AirHop-v8.0.0-1.20.1-Forge.jar"
+url = "https://cdn.modrinth.com/data/g1eaCZgs/versions/oyg2PFvx/AirHop-v8.0.2-1.20.1-Forge.jar"
 hash-format = "sha1"
-hash = "c64388e2abe6f9506df209bb8dcdcb9fd3357fc8"
+hash = "31dc2b7977a72126bcd9dc019ec531f5bf98cb41"
 
 [update]
 [update.modrinth]
 mod-id = "g1eaCZgs"
-version = "afGEsJqq"
+version = "oyg2PFvx"

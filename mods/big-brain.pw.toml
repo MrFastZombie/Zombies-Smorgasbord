@@ -1,14 +1,14 @@
 name = "Big Brain"
-filename = "bigbrain-1.20-1.7.2.jar"
+filename = "bigbrain-1.20-1.7.4-neoforge-compatible.jar"
 side = "both"
 pin = true
 
 [download]
-url = "https://cdn.modrinth.com/data/jRRBLkzK/versions/TdceP8aO/bigbrain-1.20-1.7.2.jar"
+url = "https://cdn.modrinth.com/data/jRRBLkzK/versions/fV66An0U/bigbrain-1.20-1.7.4-neoforge-compatible.jar"
 hash-format = "sha1"
-hash = "fe02b671c277573eed24216172ce21f38a8e066d"
+hash = "df4765be5092744fd1aeae7d5f764d1a2cb2a93c"
 
 [update]
 [update.modrinth]
 mod-id = "jRRBLkzK"
-version = "TdceP8aO"
+version = "fV66An0U"

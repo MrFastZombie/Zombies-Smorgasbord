@@ -1,13 +1,13 @@
 name = "aleki's Nifty Ships"
-filename = "alekiNiftyShips-FORGE-1.20.1-1.0.10.jar"
+filename = "alekiNiftyShips-FORGE-1.20.1-1.0.12.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/vuNeeDyl/versions/fxFWH3RX/alekiNiftyShips-FORGE-1.20.1-1.0.10.jar"
+url = "https://cdn.modrinth.com/data/vuNeeDyl/versions/tqjwM6lC/alekiNiftyShips-FORGE-1.20.1-1.0.12.jar"
 hash-format = "sha1"
-hash = "2560e8eb2b95b1c5b5fc11774c64bcb21fa0d3b2"
+hash = "67dbaad58c66e7134fa2e583a8bbd80f77e307c9"
 
 [update]
 [update.modrinth]
 mod-id = "vuNeeDyl"
-version = "fxFWH3RX"
+version = "tqjwM6lC"

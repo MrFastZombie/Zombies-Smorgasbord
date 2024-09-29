@@ -1,13 +1,13 @@
 name = "Bocchium"
-filename = "bocchium-1.20.1-0.0.2.jar"
-side = "client"
+filename = "bocchium-1.20.1-0.0.3.jar"
+side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "ac0602dc9be4b059bbb84cd26e9c41e5e21619dd"
+hash = "4c74bafb892028c3ec006bd694836e42695b77a0"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 4777110
+file-id = 5086758
 project-id = 905450
