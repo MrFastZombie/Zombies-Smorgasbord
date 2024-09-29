@@ -1945,6 +1945,11 @@ hash = "43a978d4f0267a8411fcc22a64c022a43ae150f0005cbaddd2d0094629437291"
 metafile = true
 
 [[files]]
+file = "mods/owo-lib.pw.toml"
+hash = "28b3e0806647eb166e942cf6552993bb6d666949c53f0d51927bdfb063cb6cc4"
+metafile = true
+
+[[files]]
 file = "mods/packet-fixer.pw.toml"
 hash = "273a8491dae7a6e241f8d20d5b5cc42ee227b9abfa128734e450803665102918"
 metafile = true
@@ -1957,6 +1962,11 @@ metafile = true
 [[files]]
 file = "mods/paragliders.pw.toml"
 hash = "bb8fa900ae8f38288921507a3d99c669a5a2169fe9cf9dc3c67e056d107ad44a"
+metafile = true
+
+[[files]]
+file = "mods/particular.pw.toml"
+hash = "e868456c1197e71712b605a6a9920f422005d8ddf6c6e4ad0d88f6524f82c748"
 metafile = true
 
 [[files]]
@@ -2370,6 +2380,11 @@ hash = "51d5ed928f1e8800a9dd42b44e0f8a4c547780dd763a91748812312b5d29f371"
 metafile = true
 
 [[files]]
+file = "mods/sushi-bar.pw.toml"
+hash = "c47ffe7736fb97aac90cb76b9e6959bb3832686163d782857cdf6cc4853f5cb6"
+metafile = true
+
+[[files]]
 file = "mods/tax-free-levels.pw.toml"
 hash = "505c71fdb7d81089cbe8b39ebc75f9cb2f15614e3b90243ea0549e7ba8f74e13"
 metafile = true
@@ -2511,7 +2526,7 @@ metafile = true
 
 [[files]]
 file = "mods/wakes.pw.toml"
-hash = "8c54e5ba9145dde09ec3297e03cce94f73b4543955050206f4ddecd3ba3f01aa"
+hash = "3b8683f1b2a0c3aa70f2750b502740c3b9e9d252500c07ba038fc0d8aba0da75"
 metafile = true
 
 [[files]]

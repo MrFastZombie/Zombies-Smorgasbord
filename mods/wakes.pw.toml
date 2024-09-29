@@ -1,13 +1,18 @@
-name = "wakes"
-filename = "wakes-0.2.2.jar"
+name = "Wakes"
+filename = "wakes-0.3.0+1.20.1.jar"
 side = "client"
+pin = true
 
 [download]
-url = "https://cdn.modrinth.com/data/dlNu0RQY/versions/mgtR7Ajv/wakes-0.2.2.jar"
-hash-format = "sha256"
-hash = "468530d4aa14819a650a00fb962335dd1680306fe313d8e3ad98bffbbda098d7"
+url = "https://cdn.modrinth.com/data/dlNu0RQY/versions/lsSmeonD/wakes-0.3.0%2B1.20.1.jar"
+hash-format = "sha1"
+hash = "c532c0660bccf9b35fcf2cf5920bb9a3b5416204"
+
+[update]
+[update.modrinth]
+mod-id = "dlNu0RQY"
+version = "lsSmeonD"
 
 [option]
 optional = true
-description = "Shows cool wakes when stuff moves in the water. See https://modrinth.com/mod/wakes for details. Possible FPS drops?"
-
+description = "Shows cool wakes when stuff moves in the water. See https://modrinth.com/mod/wakes for details."
