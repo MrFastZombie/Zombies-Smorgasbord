@@ -1,13 +1,13 @@
 name = "Dark Utilities"
-filename = "DarkUtilities-Forge-1.20.1-17.0.3.jar"
+filename = "DarkUtilities-Forge-1.20.1-17.0.5.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/CkqTAIaP/versions/82toaoSD/DarkUtilities-Forge-1.20.1-17.0.3.jar"
+url = "https://cdn.modrinth.com/data/CkqTAIaP/versions/R84O6j1g/DarkUtilities-Forge-1.20.1-17.0.5.jar"
 hash-format = "sha1"
-hash = "8588799f5a9449f4da289aa6534d68133a68b50d"
+hash = "ba16d2207ec440e2f66fcbd2ad07b83bb163ce98"
 
 [update]
 [update.modrinth]
 mod-id = "CkqTAIaP"
-version = "82toaoSD"
+version = "R84O6j1g"
