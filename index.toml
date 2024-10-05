@@ -1416,7 +1416,7 @@ metafile = true
 
 [[files]]
 file = "mods/geckolib.pw.toml"
-hash = "e5c581d917fa5d0d57c20ddf80e13e4f1b7b1c94b65955741566b9fef9f2f7f5"
+hash = "842114b0822d9c2b8b3f474afa55bb973687e8c779aa1cf83548d6ed49b348cd"
 metafile = true
 
 [[files]]
@@ -1821,7 +1821,7 @@ metafile = true
 
 [[files]]
 file = "mods/moonlight.pw.toml"
-hash = "dfa629484d068b798114e568195f39f3a28134567c5aa2f67acb9c66e7faa088"
+hash = "a9b1e4f7f3e464010fde63842eacf99517c300fca78210a8ea30c72c0587b2c8"
 metafile = true
 
 [[files]]
@@ -1897,6 +1897,11 @@ metafile = true
 [[files]]
 file = "mods/notenoughcrashes.pw.toml"
 hash = "c5e06d475ce3ebc68d5a531c0b4bcf2d6368862fe9d6ab554f1d380865ff7789"
+metafile = true
+
+[[files]]
+file = "mods/now-playing.pw.toml"
+hash = "d9120db8ec9210078ad3a981aab2af62b8261d35822e9ce578fc097c54d89742"
 metafile = true
 
 [[files]]
@@ -2381,7 +2386,7 @@ metafile = true
 
 [[files]]
 file = "mods/supplementaries.pw.toml"
-hash = "51d5ed928f1e8800a9dd42b44e0f8a4c547780dd763a91748812312b5d29f371"
+hash = "a7518e940de4186343044daa9a8f53fa08fb6bb8d7d29cf881124144fe8c463a"
 metafile = true
 
 [[files]]
