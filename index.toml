@@ -2726,6 +2726,11 @@ hash = "ea9aa90fde2059d507c459c4c9900954ad9f30f631dae12707fce6249396f3db"
 metafile = true
 
 [[files]]
+file = "resourcepacks/farcrs-better-dirt.pw.toml"
+hash = "762f07db8736916c2d9063920287dcaaa8363e52f3fc7a4e7ae1d0f045f0dfa6"
+metafile = true
+
+[[files]]
 file = "resourcepacks/icon-xaeros.pw.toml"
 hash = "10cf9efa0263b87d108959ad772fbc54d1bd679916e304462fdc7c07b6e3f1d8"
 metafile = true
