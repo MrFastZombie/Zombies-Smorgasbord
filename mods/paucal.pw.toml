@@ -1,0 +1,13 @@
+name = "PAUCAL"
+filename = "paucal-0.6.0+1.20.1-forge.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/TZo2wHFe/versions/HyBiJPtT/paucal-0.6.0%2B1.20.1-forge.jar"
+hash-format = "sha1"
+hash = "360a748d33bc23674399781992489e10e613e5ea"
+
+[update]
+[update.modrinth]
+mod-id = "TZo2wHFe"
+version = "HyBiJPtT"

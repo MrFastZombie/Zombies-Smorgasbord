@@ -1,13 +1,13 @@
 name = "Majrusz Library"
-filename = "majrusz-library-neoforge-1.20.1-7.0.5.jar"
+filename = "majrusz-library-forge-1.20.1-7.0.8.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/PYQD8noM/versions/GJHPEDZE/majrusz-library-neoforge-1.20.1-7.0.5.jar"
+url = "https://cdn.modrinth.com/data/PYQD8noM/versions/BZzTRseC/majrusz-library-forge-1.20.1-7.0.8.jar"
 hash-format = "sha1"
-hash = "2fbc33a31a08d479b504ede20b2cd656701fff19"
+hash = "be0e1b5808206abcc2ff6a369ce0c2ba53968c55"
 
 [update]
 [update.modrinth]
 mod-id = "PYQD8noM"
-version = "GJHPEDZE"
+version = "BZzTRseC"
