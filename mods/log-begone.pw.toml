@@ -1,13 +1,13 @@
 name = "Log Begone"
-filename = "Log-Begone-neoforge-1.20.1-1.0.9.jar"
+filename = "Log-Begone-Forge-1.20.1-1.0.8.jar"
 side = "both"
 
 [download]
+url = "https://cdn.modrinth.com/data/9ON3zv6e/versions/HEJGfa5J/Log-Begone-Forge-1.20.1-1.0.8.jar"
 hash-format = "sha1"
-hash = "ee34a035bdb44757d59221b754c486136c755ff7"
-mode = "metadata:curseforge"
+hash = "3b9f1c7fea5e0bdbc6f06429e147bd0a7c08663d"
 
 [update]
-[update.curseforge]
-file-id = 4714706
-project-id = 623560
+[update.modrinth]
+mod-id = "9ON3zv6e"
+version = "HEJGfa5J"

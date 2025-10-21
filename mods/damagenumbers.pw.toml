@@ -1,16 +1,16 @@
 name = "Damage Numbers"
-filename = "damagenumbers-1.1.0-forge.jar"
+filename = "damagenumbers-1.4.0-forge.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/iWdXs2dQ/versions/qAUYKKaH/damagenumbers-1.1.0-forge.jar"
+url = "https://cdn.modrinth.com/data/iWdXs2dQ/versions/LDcDBWsF/damagenumbers-1.4.0-forge.jar"
 hash-format = "sha1"
-hash = "3925e445bb0c618ea1e9d029984f2c93b196f068"
+hash = "72ba3a970e2a112aee0b66b825b15720ba3c38e3"
 
 [update]
 [update.modrinth]
 mod-id = "iWdXs2dQ"
-version = "qAUYKKaH"
+version = "LDcDBWsF"
 
 [option]
 optional = true

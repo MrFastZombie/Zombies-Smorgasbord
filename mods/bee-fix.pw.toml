@@ -1,0 +1,11 @@
+name = "bee-fix"
+filename = "BeeFix-1.20-1.0.7.jar"
+side = "both"
+
+[download]
+url = "https://www.curseforge.com/api/v1/mods/547989/files/4618962/download"
+
+# A number of tools can generate the hash for you, including 7-zip and sha256sum
+# packwiz supports a number of hashes, including sha256, sha512, sha1 and md5
+hash-format = "sha256"
+hash = "5FA50CFBD0EE3D0472BA8E9162D40E9556EA930A6BBCF93DE2AB751365B58566"

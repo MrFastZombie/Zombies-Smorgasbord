@@ -1,0 +1,13 @@
+name = "Ritchie's Projectile Library"
+filename = "ritchiesprojectilelib-2.1.0+mc.1.20.1-forge.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/B3pb093D/versions/MxClZxbS/ritchiesprojectilelib-2.1.0%2Bmc.1.20.1-forge.jar"
+hash-format = "sha1"
+hash = "3f8af3e9e7331be574bcbb1dca479c83b9cd45bd"
+
+[update]
+[update.modrinth]
+mod-id = "B3pb093D"
+version = "MxClZxbS"

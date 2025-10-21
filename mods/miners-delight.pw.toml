@@ -1,13 +1,13 @@
 name = "Miner's Delight"
-filename = "miners_delight-1.20.1-1.2.2.jar"
+filename = "miners_delight-1.20.1-1.2.3.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/qMxbM4BQ/versions/Io3BSDDl/miners_delight-1.20.1-1.2.2.jar"
+url = "https://cdn.modrinth.com/data/qMxbM4BQ/versions/loZ09szX/miners_delight-1.20.1-1.2.3.jar"
 hash-format = "sha1"
-hash = "dcdc9fcfa328cd8c9c6dbbae9a14497196f6ecd7"
+hash = "817ab785307e34895900fa23ce9d5dc4ee8eadf5"
 
 [update]
 [update.modrinth]
 mod-id = "qMxbM4BQ"
-version = "Io3BSDDl"
+version = "loZ09szX"

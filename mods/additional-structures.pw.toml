@@ -1,13 +1,13 @@
 name = "Additional Structures"
-filename = "Rex's-AdditionalStructures-1.20.x-(v.4.2.1).jar"
+filename = "AdditionalStructures-1.20.x-(v.4.2.2).jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/TWsbC6jW/versions/Y5xnelKV/Rex%27s-AdditionalStructures-1.20.x-%28v.4.2.1%29.jar"
+url = "https://cdn.modrinth.com/data/TWsbC6jW/versions/UOnYtYlg/AdditionalStructures-1.20.x-%28v.4.2.2%29.jar"
 hash-format = "sha1"
-hash = "01db05b2db8493b8dfb33abc1564a09ad4ac20fd"
+hash = "b0a03635fe02ecafdbf60782a5c6459149bf7f2a"
 
 [update]
 [update.modrinth]
 mod-id = "TWsbC6jW"
-version = "Y5xnelKV"
+version = "UOnYtYlg"

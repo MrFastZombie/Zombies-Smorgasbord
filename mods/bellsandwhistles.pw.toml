@@ -1,13 +1,13 @@
 name = "Create: Bells & Whistles"
-filename = "bellsandwhistles-0.4.3-1.20.x.jar"
+filename = "bellsandwhistles-0.4.5-1.20.x-Create6.0+.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/gJ5afkVv/versions/uvnfNUsp/bellsandwhistles-0.4.3-1.20.x.jar"
+url = "https://cdn.modrinth.com/data/gJ5afkVv/versions/kW8DoegV/bellsandwhistles-0.4.5-1.20.x-Create6.0%2B.jar"
 hash-format = "sha1"
-hash = "7cb1e1dc365c43f08ee7616f1505759e547b11be"
+hash = "2487eea5f1368d70e16c7c6a08c18be3b5d3c0d0"
 
 [update]
 [update.modrinth]
 mod-id = "gJ5afkVv"
-version = "uvnfNUsp"
+version = "kW8DoegV"

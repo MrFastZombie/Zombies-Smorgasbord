@@ -1,13 +1,13 @@
 name = "Formations (Structure Library)"
-filename = "formations-1.0.2-forge-mc1.20.jar"
+filename = "formations-1.0.3-forge-mc1.20.2.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/tPe4xnPd/versions/coW5xpTI/formations-1.0.2-forge-mc1.20.jar"
+url = "https://cdn.modrinth.com/data/tPe4xnPd/versions/CYhqOhL6/formations-1.0.3-forge-mc1.20.2.jar"
 hash-format = "sha1"
-hash = "54c4bf3047e3d529fdf83870597f927b7bd2ddb6"
+hash = "07e24930ef82a6d04090124032fedca111e6a8a5"
 
 [update]
 [update.modrinth]
 mod-id = "tPe4xnPd"
-version = "coW5xpTI"
+version = "CYhqOhL6"
